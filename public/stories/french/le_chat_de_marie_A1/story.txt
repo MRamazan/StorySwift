@@ -1,0 +1,11 @@
+Marie a dix ans. Elle a un chat. Le chat s'appelle Minou. Minou est gris et blanc.
+Ce matin, Marie se réveille. Elle cherche Minou. Où est Minou?
+[DIALOGUE]Marie: "Minou, où es-tu?"[/DIALOGUE]
+Marie cherche dans la cuisine. Minou n'est pas là. Elle cherche dans le salon. Minou n'est pas là.
+[DIALOGUE]Marie: "Minou! Minou!"[/DIALOGUE]
+Marie va dans le jardin. Elle cherche partout. Mais Minou n'est pas dans le jardin.
+Marie retourne dans sa chambre. Elle regarde sous le lit. Et voilà! Minou est là! Le chat dort sous le lit.
+[DIALOGUE]Marie: "Te voilà, Minou!"[/DIALOGUE]
+Marie est très contente. Elle prend Minou dans ses bras.
+[DIALOGUE]Minou: "Miaou!"[/DIALOGUE]
+Marie sourit. Elle adore son chat.

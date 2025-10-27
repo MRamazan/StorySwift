@@ -1,0 +1,19 @@
+Emma ist neu in Deutschland. Heute geht sie zum Supermarkt. Sie braucht Essen für die Woche.
+Emma nimmt einen Einkaufswagen. Zuerst kauft sie Obst. Sie nimmt drei Äpfel und zwei Bananen. Die Äpfel kosten 1,50 Euro. Die Bananen kosten 0,80 Euro.
+Dann geht Emma zu den Gemüsen. Sie kauft Tomaten und Karotten. Die Tomaten kosten 2,30 Euro. Die Karotten kosten 1,20 Euro.
+[DIALOG]
+Emma: Wo ist die Milch, bitte?
+Verkäufer: Da links, neben dem Brot.
+Emma: Danke schön!
+[/DIALOG]
+Emma findet die Milch. Eine Flasche Milch kostet 0,95 Euro. Sie nimmt auch ein Brot. Das Brot kostet 1,80 Euro.
+Jetzt geht Emma zur Kasse.
+[DIALOG]
+Verkäufer: Guten Tag!
+Emma: Hallo! Das ist alles.
+Verkäufer: Das macht 8,55 Euro, bitte.
+Emma: Hier, bitte.
+Verkäufer: Danke. Auf Wiedersehen!
+Emma: Auf Wiedersehen!
+[/DIALOG]
+Emma ist glücklich. Der Einkauf ist gut!

@@ -1,0 +1,592 @@
+[
+  {
+    "word": "たけし",
+    "romaji": "takeshi",
+    "translation": ["Takeshi (name)"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "七",
+    "romaji": "nana/shichi",
+    "translation": ["seven"]
+  },
+  {
+    "word": "歳",
+    "romaji": "sai",
+    "translation": ["years old", "age counter"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "男の子",
+    "romaji": "otokonoko",
+    "translation": ["boy", "young boy"]
+  },
+  {
+    "word": "です",
+    "romaji": "desu",
+    "translation": ["is", "to be (polite)"]
+  },
+  {
+    "word": "今日",
+    "romaji": "kyou",
+    "translation": ["today"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "学校",
+    "romaji": "gakkou",
+    "translation": ["school"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "初めて",
+    "romaji": "hajimete",
+    "translation": ["first time", "first"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "日",
+    "romaji": "hi",
+    "translation": ["day"]
+  },
+  {
+    "word": "です",
+    "romaji": "desu",
+    "translation": ["is", "to be (polite)"]
+  },
+  {
+    "word": "たけし",
+    "romaji": "takeshi",
+    "translation": ["Takeshi (name)"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "少し",
+    "romaji": "sukoshi",
+    "translation": ["a little", "slightly", "a bit"]
+  },
+  {
+    "word": "緊張しています",
+    "romaji": "kinchou shite imasu",
+    "translation": ["is nervous", "is tense", "is anxious"]
+  },
+  {
+    "word": "朝",
+    "romaji": "asa",
+    "translation": ["morning"]
+  },
+  {
+    "word": "八",
+    "romaji": "hachi",
+    "translation": ["eight"]
+  },
+  {
+    "word": "時",
+    "romaji": "ji",
+    "translation": ["o'clock", "time counter"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["at", "time particle"]
+  },
+  {
+    "word": "たけし",
+    "romaji": "takeshi",
+    "translation": ["Takeshi (name)"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "学校",
+    "romaji": "gakkou",
+    "translation": ["school"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["to", "direction particle"]
+  },
+  {
+    "word": "行きます",
+    "romaji": "ikimasu",
+    "translation": ["goes", "go to"]
+  },
+  {
+    "word": "教室",
+    "romaji": "kyoushitsu",
+    "translation": ["classroom"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["to", "into", "direction particle"]
+  },
+  {
+    "word": "入ります",
+    "romaji": "hairimasu",
+    "translation": ["enters", "goes in"]
+  },
+  {
+    "word": "おはようございます",
+    "romaji": "ohayou gozaimasu",
+    "translation": ["good morning (polite)"]
+  },
+  {
+    "word": "先生",
+    "romaji": "sensei",
+    "translation": ["teacher"]
+  },
+  {
+    "word": "が",
+    "romaji": "ga",
+    "translation": ["subject marker particle"]
+  },
+  {
+    "word": "言います",
+    "romaji": "iimasu",
+    "translation": ["says", "speaks", "tells"]
+  },
+  {
+    "word": "私",
+    "romaji": "watashi",
+    "translation": ["I", "me"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "田中",
+    "romaji": "tanaka",
+    "translation": ["Tanaka (surname)"]
+  },
+  {
+    "word": "先生",
+    "romaji": "sensei",
+    "translation": ["teacher"]
+  },
+  {
+    "word": "です",
+    "romaji": "desu",
+    "translation": ["is", "to be (polite)"]
+  },
+  {
+    "word": "よろしくお願いします",
+    "romaji": "yoroshiku onegaishimasu",
+    "translation": ["nice to meet you", "pleased to meet you", "please treat me well"]
+  },
+  {
+    "word": "たけし",
+    "romaji": "takeshi",
+    "translation": ["Takeshi (name)"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "自分",
+    "romaji": "jibun",
+    "translation": ["self", "oneself", "one's own"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "机",
+    "romaji": "tsukue",
+    "translation": ["desk"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["at", "on", "location particle"]
+  },
+  {
+    "word": "座ります",
+    "romaji": "suwarimasu",
+    "translation": ["sits", "sits down"]
+  },
+  {
+    "word": "隣",
+    "romaji": "tonari",
+    "translation": ["next to", "beside", "adjacent"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["at", "in", "location particle"]
+  },
+  {
+    "word": "男の子",
+    "romaji": "otokonoko",
+    "translation": ["boy", "young boy"]
+  },
+  {
+    "word": "が",
+    "romaji": "ga",
+    "translation": ["subject marker particle"]
+  },
+  {
+    "word": "います",
+    "romaji": "imasu",
+    "translation": ["exists", "there is/are (for living things)", "is there"]
+  },
+  {
+    "word": "こんにちは",
+    "romaji": "konnichiwa",
+    "translation": ["hello", "good afternoon"]
+  },
+  {
+    "word": "僕",
+    "romaji": "boku",
+    "translation": ["I", "me (casual, used by males)"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "けんじ",
+    "romaji": "kenji",
+    "translation": ["Kenji (name)"]
+  },
+  {
+    "word": "です",
+    "romaji": "desu",
+    "translation": ["is", "to be (polite)"]
+  },
+  {
+    "word": "こんにちは",
+    "romaji": "konnichiwa",
+    "translation": ["hello", "good afternoon"]
+  },
+  {
+    "word": "僕",
+    "romaji": "boku",
+    "translation": ["I", "me (casual, used by males)"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "たけし",
+    "romaji": "takeshi",
+    "translation": ["Takeshi (name)"]
+  },
+  {
+    "word": "です",
+    "romaji": "desu",
+    "translation": ["is", "to be (polite)"]
+  },
+  {
+    "word": "たけし",
+    "romaji": "takeshi",
+    "translation": ["Takeshi (name)"]
+  },
+  {
+    "word": "と",
+    "romaji": "to",
+    "translation": ["and", "with", "conjunction particle"]
+  },
+  {
+    "word": "けんじ",
+    "romaji": "kenji",
+    "translation": ["Kenji (name)"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "友達",
+    "romaji": "tomodachi",
+    "translation": ["friend", "friends"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["to", "into", "result particle"]
+  },
+  {
+    "word": "なります",
+    "romaji": "narimasu",
+    "translation": ["becomes", "become"]
+  },
+  {
+    "word": "十二",
+    "romaji": "juuni",
+    "translation": ["twelve"]
+  },
+  {
+    "word": "時",
+    "romaji": "ji",
+    "translation": ["o'clock", "time counter"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["at", "time particle"]
+  },
+  {
+    "word": "昼ご飯",
+    "romaji": "hirugohan",
+    "translation": ["lunch", "midday meal"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "時間",
+    "romaji": "jikan",
+    "translation": ["time", "period"]
+  },
+  {
+    "word": "です",
+    "romaji": "desu",
+    "translation": ["is", "to be (polite)"]
+  },
+  {
+    "word": "たけし",
+    "romaji": "takeshi",
+    "translation": ["Takeshi (name)"]
+  },
+  {
+    "word": "と",
+    "romaji": "to",
+    "translation": ["and", "with", "conjunction particle"]
+  },
+  {
+    "word": "けんじ",
+    "romaji": "kenji",
+    "translation": ["Kenji (name)"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "一緒に",
+    "romaji": "issho ni",
+    "translation": ["together", "with"]
+  },
+  {
+    "word": "食べます",
+    "romaji": "tabemasu",
+    "translation": ["eats", "eat"]
+  },
+  {
+    "word": "たけし",
+    "romaji": "takeshi",
+    "translation": ["Takeshi (name)"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "おにぎり",
+    "romaji": "onigiri",
+    "translation": ["rice ball", "onigiri"]
+  },
+  {
+    "word": "を",
+    "romaji": "wo/o",
+    "translation": ["object marker particle"]
+  },
+  {
+    "word": "食べます",
+    "romaji": "tabemasu",
+    "translation": ["eats", "eat"]
+  },
+  {
+    "word": "けんじ",
+    "romaji": "kenji",
+    "translation": ["Kenji (name)"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "サンドイッチ",
+    "romaji": "sandoicchi",
+    "translation": ["sandwich"]
+  },
+  {
+    "word": "を",
+    "romaji": "wo/o",
+    "translation": ["object marker particle"]
+  },
+  {
+    "word": "食べます",
+    "romaji": "tabemasu",
+    "translation": ["eats", "eat"]
+  },
+  {
+    "word": "学校",
+    "romaji": "gakkou",
+    "translation": ["school"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "楽しい",
+    "romaji": "tanoshii",
+    "translation": ["fun", "enjoyable", "pleasant"]
+  },
+  {
+    "word": "です",
+    "romaji": "desu",
+    "translation": ["is", "to be (polite)"]
+  },
+  {
+    "word": "ね",
+    "romaji": "ne",
+    "translation": ["sentence-ending particle", "right?", "isn't it?"]
+  },
+  {
+    "word": "と",
+    "romaji": "to",
+    "translation": ["quotation particle", "that"]
+  },
+  {
+    "word": "たけし",
+    "romaji": "takeshi",
+    "translation": ["Takeshi (name)"]
+  },
+  {
+    "word": "が",
+    "romaji": "ga",
+    "translation": ["subject marker particle"]
+  },
+  {
+    "word": "言います",
+    "romaji": "iimasu",
+    "translation": ["says", "speaks", "tells"]
+  },
+  {
+    "word": "はい",
+    "romaji": "hai",
+    "translation": ["yes"]
+  },
+  {
+    "word": "楽しい",
+    "romaji": "tanoshii",
+    "translation": ["fun", "enjoyable", "pleasant"]
+  },
+  {
+    "word": "です",
+    "romaji": "desu",
+    "translation": ["is", "to be (polite)"]
+  },
+  {
+    "word": "と",
+    "romaji": "to",
+    "translation": ["quotation particle", "that"]
+  },
+  {
+    "word": "けんじ",
+    "romaji": "kenji",
+    "translation": ["Kenji (name)"]
+  },
+  {
+    "word": "が",
+    "romaji": "ga",
+    "translation": ["subject marker particle"]
+  },
+  {
+    "word": "言います",
+    "romaji": "iimasu",
+    "translation": ["says", "speaks", "tells"]
+  },
+  {
+    "word": "たけし",
+    "romaji": "takeshi",
+    "translation": ["Takeshi (name)"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "とても",
+    "romaji": "totemo",
+    "translation": ["very", "very much"]
+  },
+  {
+    "word": "嬉しい",
+    "romaji": "ureshii",
+    "translation": ["happy", "glad", "joyful"]
+  },
+  {
+    "word": "です",
+    "romaji": "desu",
+    "translation": ["is", "to be (polite)"]
+  },
+  {
+    "word": "学校",
+    "romaji": "gakkou",
+    "translation": ["school"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "楽しい",
+    "romaji": "tanoshii",
+    "translation": ["fun", "enjoyable", "pleasant"]
+  },
+  {
+    "word": "です",
+    "romaji": "desu",
+    "translation": ["is", "to be (polite)"]
+  }
+]

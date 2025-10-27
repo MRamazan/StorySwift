@@ -1,0 +1,18 @@
+Samedi matin, Julie est allée dans le garage pour prendre son vélo. Mais le vélo qui était toujours à sa place habituelle avait disparu! Elle était très inquiète.
+[DIALOGUE]Julie: "Marc! Marc! Mon vélo n'est plus là!"[/DIALOGUE]
+[DIALOGUE]Marc: "Quoi? Tu es sûre? Tu l'avais bien mis dans le garage hier?"[/DIALOGUE]
+[DIALOGUE]Julie: "Oui, j'en suis certaine! Quelqu'un l'a volé, j'en suis sûre!"[/DIALOGUE]
+Julie était furieuse. Son vélo bleu qu'elle avait reçu pour son anniversaire avait disparu. Marc, qui voulait aider sa sœur, a proposé de mener une enquête.
+Ils ont commencé à interroger les voisins. Madame Dupont, qui habitait à côté, n'avait rien vu. Monsieur Bernard, qui promenait toujours son chien le matin, n'avait rien remarqué non plus.
+[DIALOGUE]Julie: "C'est bizarre... Personne n'a rien vu!"[/DIALOGUE]
+[DIALOGUE]Marc: "Allons demander à Monsieur Lefebvre. Il est souvent dans son jardin."[/DIALOGUE]
+Ils sont allés chez Monsieur Lefebvre, leur voisin âgé qui aimait jardiner.
+[DIALOGUE]Marc: "Bonjour Monsieur Lefebvre. Avez-vous vu quelque chose d'inhabituel ce matin?"[/DIALOGUE]
+[DIALOGUE]Monsieur Lefebvre: "Ah oui! J'ai vu votre père qui prenait le vélo de Julie vers huit heures."[/DIALOGUE]
+[DIALOGUE]Julie: "Mon père? Mais pourquoi?"[/DIALOGUE]
+[DIALOGUE]Monsieur Lefebvre: "Il m'a dit qu'il allait le faire réparer. C'était une surprise, je crois."[/DIALOGUE]
+Julie et Marc se sont regardés, soulagés. Le vélo n'avait pas été volé! Leur père l'avait simplement emmené au magasin de vélos.
+L'après-midi, leur père est rentré avec le vélo. Il avait réparé les freins qui ne marchaient plus bien et avait même ajouté une nouvelle sonnette brillante.
+[DIALOGUE]Papa: "Surprise! Ton vélo est comme neuf maintenant!"[/DIALOGUE]
+[DIALOGUE]Julie: "Merci papa! Je m'excuse d'avoir pensé qu'on l'avait volé!"[/DIALOGUE]
+Julie était très heureuse. Le mystère était résolu, et son vélo était encore mieux qu'avant!

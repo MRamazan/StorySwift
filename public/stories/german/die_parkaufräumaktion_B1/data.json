@@ -1,0 +1,2551 @@
+[
+  {
+    "word": "Tim",
+    "translation": ["Tim"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "und",
+    "translation": ["and"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "Lisa",
+    "translation": ["Lisa"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "waren",
+    "translation": ["were"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "seit",
+    "translation": ["since", "for"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "Jahren",
+    "translation": ["years"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "beste",
+    "translation": ["best"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Freunde",
+    "translation": ["friends"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Beide",
+    "translation": ["both"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "studierten",
+    "translation": ["studied"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Umweltwissenschaften",
+    "translation": ["environmental sciences"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "und",
+    "translation": ["and"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "interessierten",
+    "translation": ["were interested"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "sich",
+    "translation": ["themselves"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "für",
+    "translation": ["for", "in"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "Nachhaltigkeit",
+    "translation": ["sustainability"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Eines",
+    "translation": ["one"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "Tages",
+    "translation": ["day"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "im",
+    "translation": ["in the"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "April",
+    "translation": ["April"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "sind",
+    "translation": ["are"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "sie",
+    "translation": ["they", "she"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "durch",
+    "translation": ["through"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "den",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Stadtpark",
+    "translation": ["city park"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "gegangen",
+    "translation": ["gone", "walked"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "der",
+    "translation": ["the", "which", "who"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "in",
+    "translation": ["in"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "ihrer",
+    "translation": ["their"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "Nachbarschaft",
+    "translation": ["neighborhood"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "lag",
+    "translation": ["lay", "was located"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Sie",
+    "translation": ["they", "she", "you (formal)"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "waren",
+    "translation": ["were"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "schockiert",
+    "translation": ["shocked"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "als",
+    "translation": ["when", "as"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "sie",
+    "translation": ["they", "she"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "gesehen",
+    "translation": ["seen"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "haben",
+    "translation": ["have"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "wie",
+    "translation": ["how"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "viel",
+    "translation": ["much", "a lot of"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "Müll",
+    "translation": ["trash", "garbage", "waste"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "überall",
+    "translation": ["everywhere"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "herumlag",
+    "translation": ["lay around"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Plastikflaschen",
+    "translation": ["plastic bottles"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Verpackungen",
+    "translation": ["packaging", "wrappings"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "sogar",
+    "translation": ["even"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "alte",
+    "translation": ["old"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Möbel",
+    "translation": ["furniture"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Lisa",
+    "translation": ["Lisa"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Das",
+    "translation": ["that", "this"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "ist",
+    "translation": ["is"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "ja",
+    "translation": ["yes", "indeed"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "schrecklich",
+    "translation": ["terrible", "horrible"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Der",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Park",
+    "translation": ["park"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "den",
+    "translation": ["the", "which"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "wir",
+    "translation": ["we"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "als",
+    "translation": ["as", "when"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "Kinder",
+    "translation": ["children"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "so",
+    "translation": ["so", "such"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "geliebt",
+    "translation": ["loved"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "haben",
+    "translation": ["have"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "ist",
+    "translation": ["is"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "voller",
+    "translation": ["full of"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Müll",
+    "translation": ["trash", "garbage", "waste"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Tim",
+    "translation": ["Tim"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Du",
+    "translation": ["you"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "hast",
+    "translation": ["have"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "recht",
+    "translation": ["right"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Wir",
+    "translation": ["we"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "sollten",
+    "translation": ["should"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "etwas",
+    "translation": ["something"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "dagegen",
+    "translation": ["against it", "about it"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "tun",
+    "translation": ["do"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Lisa",
+    "translation": ["Lisa"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Lass",
+    "translation": ["let"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "uns",
+    "translation": ["us"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "eine",
+    "translation": ["a", "one"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Aufräumaktion",
+    "translation": ["cleanup action", "cleanup campaign"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "organisieren",
+    "translation": ["organize"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Wenn",
+    "translation": ["if", "when"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "wir",
+    "translation": ["we"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "die",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Nachbarn",
+    "translation": ["neighbors"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "motivieren",
+    "translation": ["motivate"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "können",
+    "translation": ["can"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "schaffen",
+    "translation": ["manage", "accomplish", "do"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "wir",
+    "translation": ["we"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "das",
+    "translation": ["that", "this"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "zusammen",
+    "translation": ["together"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "Tim",
+    "translation": ["Tim"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Gute",
+    "translation": ["good"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Idee",
+    "translation": ["idea"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Wir",
+    "translation": ["we"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "könnten",
+    "translation": ["could"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Flyer",
+    "translation": ["flyer", "flyers"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "machen",
+    "translation": ["make", "do"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "und",
+    "translation": ["and"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "Leute",
+    "translation": ["people"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "einladen",
+    "translation": ["invite"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Am",
+    "translation": ["on the", "at the"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "nächsten",
+    "translation": ["next"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Tag",
+    "translation": ["day"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "haben",
+    "translation": ["have"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Tim",
+    "translation": ["Tim"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "und",
+    "translation": ["and"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "Lisa",
+    "translation": ["Lisa"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "angefangen",
+    "translation": ["started", "begun"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "zu",
+    "translation": ["to"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "planen",
+    "translation": ["plan"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Sie",
+    "translation": ["they", "she", "you (formal)"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "haben",
+    "translation": ["have"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Flyer",
+    "translation": ["flyer", "flyers"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "am",
+    "translation": ["on the", "at the"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "Computer",
+    "translation": ["computer"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "gestaltet",
+    "translation": ["designed", "created"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "auf",
+    "translation": ["on"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "denen",
+    "translation": ["which"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "stand",
+    "translation": ["stood", "said"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Helfen",
+    "translation": ["help"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Sie",
+    "translation": ["you (formal)", "they", "she"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "uns",
+    "translation": ["us"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "unseren",
+    "translation": ["our"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "Park",
+    "translation": ["park"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "zu",
+    "translation": ["to"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "retten",
+    "translation": ["save", "rescue"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Aufräumaktion",
+    "translation": ["cleanup action", "cleanup campaign"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "am",
+    "translation": ["on the", "at the"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "Samstag",
+    "translation": ["Saturday"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "den",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "15.",
+    "translation": ["15th"],
+    "part_of_speech": "numeral"
+  },
+  {
+    "word": "Mai",
+    "translation": ["May"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Sie",
+    "translation": ["they", "she", "you (formal)"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "haben",
+    "translation": ["have"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "hundert",
+    "translation": ["hundred"],
+    "part_of_speech": "numeral"
+  },
+  {
+    "word": "Flyer",
+    "translation": ["flyer", "flyers"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "gedruckt",
+    "translation": ["printed"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "und",
+    "translation": ["and"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "in",
+    "translation": ["in"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "der",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Nachbarschaft",
+    "translation": ["neighborhood"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "verteilt",
+    "translation": ["distributed"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Als",
+    "translation": ["as", "when"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "sie",
+    "translation": ["they", "she"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "durch",
+    "translation": ["through"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "die",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Straßen",
+    "translation": ["streets"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "gegangen",
+    "translation": ["gone", "walked"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "sind",
+    "translation": ["are"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "haben",
+    "translation": ["have"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "sie",
+    "translation": ["they", "she"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "viele",
+    "translation": ["many"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "Nachbarn",
+    "translation": ["neighbors"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "getroffen",
+    "translation": ["met"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "die",
+    "translation": ["the", "who"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "ihre",
+    "translation": ["their"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "Idee",
+    "translation": ["idea"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "unterstützen",
+    "translation": ["support"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "wollten",
+    "translation": ["wanted"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Nachbar",
+    "translation": ["neighbor"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Schmidt",
+    "translation": ["Schmidt"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Was",
+    "translation": ["what"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "macht",
+    "translation": ["make", "do"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "ihr",
+    "translation": ["you (plural)"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "denn",
+    "translation": ["then", "because"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "da",
+    "translation": ["there", "here"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "Tim",
+    "translation": ["Tim"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Wir",
+    "translation": ["we"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "organisieren",
+    "translation": ["organize"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "eine",
+    "translation": ["a", "one"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Parkaufräumaktion",
+    "translation": ["park cleanup action"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "damit",
+    "translation": ["so that", "with it"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "unser",
+    "translation": ["our"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "Park",
+    "translation": ["park"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "wieder",
+    "translation": ["again"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "sauber",
+    "translation": ["clean"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "wird",
+    "translation": ["becomes", "will be"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Nachbar",
+    "translation": ["neighbor"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Schmidt",
+    "translation": ["Schmidt"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Das",
+    "translation": ["that", "this"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "finde",
+    "translation": ["find", "think"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "ich",
+    "translation": ["I"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "großartig",
+    "translation": ["great", "wonderful"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Ich",
+    "translation": ["I"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "komme",
+    "translation": ["come"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "auf",
+    "translation": ["on"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "jeden",
+    "translation": ["every", "any"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "Fall",
+    "translation": ["case"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Lisa",
+    "translation": ["Lisa"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Könnten",
+    "translation": ["could"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Sie",
+    "translation": ["you (formal)", "they", "she"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "vielleicht",
+    "translation": ["perhaps", "maybe"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "auch",
+    "translation": ["also", "too"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "Ihre",
+    "translation": ["your (formal)", "their"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "Freunde",
+    "translation": ["friends"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "fragen",
+    "translation": ["ask"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "ob",
+    "translation": ["if", "whether"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "sie",
+    "translation": ["they", "she"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "mitmachen",
+    "translation": ["participate", "join in"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "möchten",
+    "translation": ["would like"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Nachbar",
+    "translation": ["neighbor"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Schmidt",
+    "translation": ["Schmidt"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Natürlich",
+    "translation": ["of course", "naturally"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "Ich",
+    "translation": ["I"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "erzähle",
+    "translation": ["tell"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "es",
+    "translation": ["it"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "allen",
+    "translation": ["all", "everyone"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "die",
+    "translation": ["the", "who"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "ich",
+    "translation": ["I"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "kenne",
+    "translation": ["know"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Tim",
+    "translation": ["Tim"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "und",
+    "translation": ["and"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "Lisa",
+    "translation": ["Lisa"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "haben",
+    "translation": ["have"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "auch",
+    "translation": ["also", "too"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "eine",
+    "translation": ["a", "one"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Petition",
+    "translation": ["petition"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "gestartet",
+    "translation": ["started"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Sie",
+    "translation": ["they", "she", "you (formal)"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "wollten",
+    "translation": ["wanted"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "dass",
+    "translation": ["that"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "die",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Stadt",
+    "translation": ["city"],
+    "part_of_speech": "noun"},
+  {
+    "word": "mehr",
+    "translation": ["more"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "Mülleimer",
+    "translation": ["trash cans", "garbage bins"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "im",
+    "translation": ["in the"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "Park",
+    "translation": ["park"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "aufstellt",
+    "translation": ["sets up", "installs"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "damit",
+    "translation": ["so that", "with it"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "das",
+    "translation": ["the", "that"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Problem",
+    "translation": ["problem"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "langfristig",
+    "translation": ["long-term"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "gelöst",
+    "translation": ["solved"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "werden",
+    "translation": ["become", "be"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "konnte",
+    "translation": ["could"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Innerhalb",
+    "translation": ["within"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "von",
+    "translation": ["of", "from"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "zwei",
+    "translation": ["two"],
+    "part_of_speech": "numeral"
+  },
+  {
+    "word": "Wochen",
+    "translation": ["weeks"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "haben",
+    "translation": ["have"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "sie",
+    "translation": ["they", "she"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "zweihundert",
+    "translation": ["two hundred"],
+    "part_of_speech": "numeral"
+  },
+  {
+    "word": "Unterschriften",
+    "translation": ["signatures"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "gesammelt",
+    "translation": ["collected"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Der",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Tag",
+    "translation": ["day"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "der",
+    "translation": ["the", "of the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Aufräumaktion",
+    "translation": ["cleanup action", "cleanup campaign"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "kam",
+    "translation": ["came"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Tim",
+    "translation": ["Tim"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "und",
+    "translation": ["and"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "Lisa",
+    "translation": ["Lisa"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "waren",
+    "translation": ["were"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "früh",
+    "translation": ["early"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "im",
+    "translation": ["in the"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "Park",
+    "translation": ["park"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "obwohl",
+    "translation": ["although", "even though"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "sie",
+    "translation": ["they", "she"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "sehr",
+    "translation": ["very"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "nervös",
+    "translation": ["nervous"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "waren",
+    "translation": ["were"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Sie",
+    "translation": ["they", "she", "you (formal)"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "hatten",
+    "translation": ["had"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Müllsäcke",
+    "translation": ["trash bags", "garbage bags"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Handschuhe",
+    "translation": ["gloves"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "und",
+    "translation": ["and"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "Greifzangen",
+    "translation": ["grabbers", "picker tools"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "organisiert",
+    "translation": ["organized"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Als",
+    "translation": ["as", "when"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "die",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "ersten",
+    "translation": ["first"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Helfer",
+    "translation": ["helpers", "volunteers"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "ankamen",
+    "translation": ["arrived"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "waren",
+    "translation": ["were"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "sie",
+    "translation": ["they", "she"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "erleichtert",
+    "translation": ["relieved"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Lisa",
+    "translation": ["Lisa"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Guten",
+    "translation": ["good"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Morgen",
+    "translation": ["morning"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Vielen",
+    "translation": ["many", "much"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "Dank",
+    "translation": ["thanks"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "dass",
+    "translation": ["that"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "Sie",
+    "translation": ["you (formal)", "they", "she"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "gekommen",
+    "translation": ["come"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "sind",
+    "translation": ["are"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Nachbarin",
+    "translation": ["neighbor", "female neighbor"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Müller",
+    "translation": ["Müller"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Das",
+    "translation": ["that", "this"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "mache",
+    "translation": ["do", "make"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "ich",
+    "translation": ["I"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "gern",
+    "translation": ["gladly", "with pleasure"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "Meine",
+    "translation": ["my"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "Kinder",
+    "translation": ["children"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "spielen",
+    "translation": ["play"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "oft",
+    "translation": ["often"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "hier",
+    "translation": ["here"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "Tim",
+    "translation": ["Tim"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Wir",
+    "translation": ["we"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "haben",
+    "translation": ["have"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "alles",
+    "translation": ["everything", "all"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "organisiert",
+    "translation": ["organized"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Bitte",
+    "translation": ["please"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "nehmen",
+    "translation": ["take"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Sie",
+    "translation": ["you (formal)", "they", "she"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "Handschuhe",
+    "translation": ["gloves"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "und",
+    "translation": ["and"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "Müllsäcke",
+    "translation": ["trash bags", "garbage bags"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Am",
+    "translation": ["at the", "on the"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "Ende",
+    "translation": ["end"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "kamen",
+    "translation": ["came"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "dreißig",
+    "translation": ["thirty"],
+    "part_of_speech": "numeral"
+  },
+  {
+    "word": "Menschen",
+    "translation": ["people"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Familien",
+    "translation": ["families"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "mit",
+    "translation": ["with"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "Kindern",
+    "translation": ["children"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "ältere",
+    "translation": ["older", "elderly"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Nachbarn",
+    "translation": ["neighbors"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "sogar",
+    "translation": ["even"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "Studenten",
+    "translation": ["students"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Alle",
+    "translation": ["all", "everyone"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "haben",
+    "translation": ["have"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "drei",
+    "translation": ["three"],
+    "part_of_speech": "numeral"
+  },
+  {
+    "word": "Stunden",
+    "translation": ["hours"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "lang",
+    "translation": ["long"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "gearbeitet",
+    "translation": ["worked"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Es",
+    "translation": ["it"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "wurde",
+    "translation": ["was", "became"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "viel",
+    "translation": ["much", "a lot of"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "Müll",
+    "translation": ["trash", "garbage", "waste"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "gesammelt",
+    "translation": ["collected"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "über",
+    "translation": ["over", "more than"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "zwanzig",
+    "translation": ["twenty"],
+    "part_of_speech": "numeral"
+  },
+  {
+    "word": "große",
+    "translation": ["large", "big"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Säcke",
+    "translation": ["bags", "sacks"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Der",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Park",
+    "translation": ["park"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "sah",
+    "translation": ["saw", "looked"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "danach",
+    "translation": ["after that", "afterwards"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "viel",
+    "translation": ["much"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "besser",
+    "translation": ["better"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "aus",
+    "translation": ["out"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "Kind",
+    "translation": ["child"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Mama",
+    "translation": ["mom", "mommy"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "schau",
+    "translation": ["look"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Ich",
+    "translation": ["I"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "habe",
+    "translation": ["have"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "zehn",
+    "translation": ["ten"],
+    "part_of_speech": "numeral"
+  },
+  {
+    "word": "Flaschen",
+    "translation": ["bottles"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "gefunden",
+    "translation": ["found"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Mutter",
+    "translation": ["mother"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Toll",
+    "translation": ["great", "fantastic"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "gemacht",
+    "translation": ["made", "done"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Wir",
+    "translation": ["we"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "recyceln",
+    "translation": ["recycle"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "sie",
+    "translation": ["them", "they", "she"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "später",
+    "translation": ["later"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "Lisa",
+    "translation": ["Lisa"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Danke",
+    "translation": ["thank you", "thanks"],
+    "part_of_speech": "interjection"
+  },
+  {
+    "word": "dass",
+    "translation": ["that"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "ihr",
+    "translation": ["you (plural)"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "helft",
+    "translation": ["help"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Zusammen",
+    "translation": ["together"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "können",
+    "translation": ["can"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "wir",
+    "translation": ["we"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "wirklich",
+    "translation": ["really", "truly"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "etwas",
+    "translation": ["something"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "bewegen",
+    "translation": ["move", "change"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Eine",
+    "translation": ["a", "one"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Woche",
+    "translation": ["week"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "nach",
+    "translation": ["after"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "der",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Aktion",
+    "translation": ["action", "campaign"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "haben",
+    "translation": ["have"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Tim",
+    "translation": ["Tim"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "und",
+    "translation": ["and"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "Lisa",
+    "translation": ["Lisa"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "einen",
+    "translation": ["a", "an"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Termin",
+    "translation": ["appointment"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "beim",
+    "translation": ["at the", "with the"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "Bürgermeister",
+    "translation": ["mayor"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "bekommen",
+    "translation": ["gotten", "received"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Sie",
+    "translation": ["they", "she", "you (formal)"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "wollten",
+    "translation": ["wanted"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "über",
+    "translation": ["about"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "die",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Petition",
+    "translation": ["petition"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "sprechen",
+    "translation": ["speak", "talk"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "die",
+    "translation": ["the", "which"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "sie",
+    "translation": ["they", "she"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "gestartet",
+    "translation": ["started"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "hatten",
+    "translation": ["had"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Bürgermeister",
+    "translation": ["mayor"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Ich",
+    "translation": ["I"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "habe",
+    "translation": ["have"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "von",
+    "translation": ["of", "from", "about"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "Ihrer",
+    "translation": ["your (formal)", "their"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "Aktion",
+    "translation": ["action", "campaign"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "gehört",
+    "translation": ["heard"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Sehr",
+    "translation": ["very"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "beeindruckend",
+    "translation": ["impressive"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Tim",
+    "translation": ["Tim"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Danke",
+    "translation": ["thank you", "thanks"],
+    "part_of_speech": "interjection"
+  },
+  {
+    "word": "Wir",
+    "translation": ["we"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "haben",
+    "translation": ["have"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "zweihundert",
+    "translation": ["two hundred"],
+    "part_of_speech": "numeral"
+  },
+  {
+    "word": "Unterschriften",
+    "translation": ["signatures"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "gesammelt",
+    "translation": ["collected"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Die",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Menschen",
+    "translation": ["people"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "möchten",
+    "translation": ["would like", "want"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "mehr",
+    "translation": ["more"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "Mülleimer",
+    "translation": ["trash cans", "garbage bins"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "im",
+    "translation": ["in the"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "Park",
+    "translation": ["park"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Lisa",
+    "translation": ["Lisa"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Außerdem",
+    "translation": ["moreover", "besides", "furthermore"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "sollten",
+    "translation": ["should"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "die",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "vorhandenen",
+    "translation": ["existing", "available"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Mülleimer",
+    "translation": ["trash cans", "garbage bins"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "öfter",
+    "translation": ["more often"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "geleert",
+    "translation": ["emptied"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "werden",
+    "translation": ["be", "become"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "damit",
+    "translation": ["so that"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "sie",
+    "translation": ["they"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "nicht",
+    "translation": ["not"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "überfüllen",
+    "translation": ["overflow", "overfill"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Bürgermeister",
+    "translation": ["mayor"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Sie",
+    "translation": ["you (formal)", "they", "she"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "haben",
+    "translation": ["have"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "absolut",
+    "translation": ["absolutely"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "recht",
+    "translation": ["right"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Es",
+    "translation": ["it"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "wurde",
+    "translation": ["was", "became"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "bereits",
+    "translation": ["already"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "beschlossen",
+    "translation": ["decided"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "dass",
+    "translation": ["that"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "wir",
+    "translation": ["we"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "zehn",
+    "translation": ["ten"],
+    "part_of_speech": "numeral"
+  },
+  {
+    "word": "neue",
+    "translation": ["new"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Mülleimer",
+    "translation": ["trash cans", "garbage bins"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "installieren",
+    "translation": ["install"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "werden",
+    "translation": ["will", "be"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Tim",
+    "translation": ["Tim"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Das",
+    "translation": ["that", "this"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "ist",
+    "translation": ["is"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "fantastisch",
+    "translation": ["fantastic"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Wann",
+    "translation": ["when"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "wird",
+    "translation": ["will", "becomes"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "das",
+    "translation": ["that", "this"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "passieren",
+    "translation": ["happen"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Bürgermeister",
+    "translation": ["mayor"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Nächsten",
+    "translation": ["next"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Monat",
+    "translation": ["month"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Und",
+    "translation": ["and"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "ich",
+    "translation": ["I"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "möchte",
+    "translation": ["would like", "want"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Ihnen",
+    "translation": ["you (formal)", "to you"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "beiden",
+    "translation": ["both"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "persönlich",
+    "translation": ["personally"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "danken",
+    "translation": ["thank"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Wenn",
+    "translation": ["if", "when"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "mehr",
+    "translation": ["more"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "junge",
+    "translation": ["young"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Menschen",
+    "translation": ["people"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "so",
+    "translation": ["so", "such"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "engagiert",
+    "translation": ["engaged", "committed"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "wären",
+    "translation": ["were", "would be"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "hätten",
+    "translation": ["had", "would have"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "wir",
+    "translation": ["we"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "eine",
+    "translation": ["a"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "bessere",
+    "translation": ["better"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Stadt",
+    "translation": ["city"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Tim",
+    "translation": ["Tim"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "und",
+    "translation": ["and"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "Lisa",
+    "translation": ["Lisa"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "waren",
+    "translation": ["were"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "überglücklich",
+    "translation": ["overjoyed", "extremely happy"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Sie",
+    "translation": ["they", "she", "you (formal)"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "hatten",
+    "translation": ["had"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "gezeigt",
+    "translation": ["shown"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "dass",
+    "translation": ["that"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "man",
+    "translation": ["one", "you", "people"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "mit",
+    "translation": ["with"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "Engagement",
+    "translation": ["engagement", "commitment"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "und",
+    "translation": ["and"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "Zusammenarbeit",
+    "translation": ["cooperation", "collaboration"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "wirklich",
+    "translation": ["really", "truly"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "etwas",
+    "translation": ["something"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "verändern",
+    "translation": ["change"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "kann",
+    "translation": ["can"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Der",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Park",
+    "translation": ["park"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "der",
+    "translation": ["the", "which"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "ihnen",
+    "translation": ["them", "to them"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "so",
+    "translation": ["so"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "wichtig",
+    "translation": ["important"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "war",
+    "translation": ["was"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "wurde",
+    "translation": ["was", "became"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "nicht",
+    "translation": ["not"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "nur",
+    "translation": ["only", "just"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "sauber",
+    "translation": ["clean"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "sondern",
+    "translation": ["but", "but rather"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "bekam",
+    "translation": ["got", "received"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "auch",
+    "translation": ["also"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "bessere",
+    "translation": ["better"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Infrastruktur",
+    "translation": ["infrastructure"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "für",
+    "translation": ["for"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "die",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Zukunft",
+    "translation": ["future"],
+    "part_of_speech": "noun"
+  }
+]

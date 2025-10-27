@@ -1,0 +1,13 @@
+Aujourd'hui, c'est le premier jour d'école pour Lucas. Il a sept ans et il change d'école. Lucas est nerveux parce qu'il ne connaît personne.
+Il arrive devant la classe. Il entre doucement. Madame Dubois, la maîtresse, sourit.
+[DIALOGUE]Madame Dubois: "Bonjour! Tu es Lucas, n'est-ce pas?"[/DIALOGUE]
+[DIALOGUE]Lucas: "Oui, madame."[/DIALOGUE]
+[DIALOGUE]Madame Dubois: "Bienvenue! Les enfants, voici Lucas, votre nouveau camarade."[/DIALOGUE]
+Lucas regarde les autres élèves. Ils sont tous gentils. Une fille avec des cheveux blonds lève la main.
+[DIALOGUE]Sophie: "Bonjour Lucas! Tu peux t'asseoir à côté de moi!"[/DIALOGUE]
+Lucas s'assoit à côté de Sophie. Elle lui montre ses crayons de couleur.
+[DIALOGUE]Sophie: "Comment tu t'appelles... ah oui, Lucas! Tu veux jouer avec moi à la récréation?"[/DIALOGUE]
+[DIALOGUE]Lucas: "Oui, avec plaisir!"[/DIALOGUE]
+À la récréation, Lucas et Sophie ont joué ensemble. Ils ont couru dans la cour et ils ont ri beaucoup. Lucas est maintenant très content.
+[DIALOGUE]Lucas: "Je suis heureux d'être dans cette école!"[/DIALOGUE]
+Sophie sourit. Lucas a trouvé une nouvelle amie.

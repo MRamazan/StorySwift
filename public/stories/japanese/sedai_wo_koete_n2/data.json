@@ -1,0 +1,2157 @@
+[
+  {
+    "japanese": "田中",
+    "romaji": "Tanaka",
+    "english": ["Tanaka (surname)"]
+  },
+  {
+    "japanese": "部長",
+    "romaji": "buchō",
+    "english": ["department manager", "division chief"]
+  },
+  {
+    "japanese": "は",
+    "romaji": "wa",
+    "english": ["topic marker particle"]
+  },
+  {
+    "japanese": "五十五",
+    "romaji": "gojūgo",
+    "english": ["fifty-five", "55"]
+  },
+  {
+    "japanese": "歳",
+    "romaji": "sai",
+    "english": ["years old", "age counter"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["possessive particle", "of"]
+  },
+  {
+    "japanese": "ベテラン",
+    "romaji": "beteran",
+    "english": ["veteran", "experienced person"]
+  },
+  {
+    "japanese": "管理",
+    "romaji": "kanri",
+    "english": ["management", "administration"]
+  },
+  {
+    "japanese": "職",
+    "romaji": "shoku",
+    "english": ["position", "job", "occupation"]
+  },
+  {
+    "japanese": "だ",
+    "romaji": "da",
+    "english": ["is", "copula (plain form)"]
+  },
+  {
+    "japanese": "入社",
+    "romaji": "nyūsha",
+    "english": ["joining a company", "entering a company"]
+  },
+  {
+    "japanese": "以来",
+    "romaji": "irai",
+    "english": ["since", "ever since"]
+  },
+  {
+    "japanese": "三十",
+    "romaji": "sanjū",
+    "english": ["thirty", "30"]
+  },
+  {
+    "japanese": "年間",
+    "romaji": "nenkan",
+    "english": ["period of years", "for ... years"]
+  },
+  {
+    "japanese": "会社",
+    "romaji": "kaisha",
+    "english": ["company", "corporation"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["possessive particle", "of"]
+  },
+  {
+    "japanese": "ために",
+    "romaji": "tame ni",
+    "english": ["for the sake of", "for", "in order to"]
+  },
+  {
+    "japanese": "尽くして",
+    "romaji": "tsukushite",
+    "english": ["devote", "serve", "dedicate (te-form)"]
+  },
+  {
+    "japanese": "きた",
+    "romaji": "kita",
+    "english": ["came", "has been (auxiliary verb showing continuation)"]
+  },
+  {
+    "japanese": "彼",
+    "romaji": "kare",
+    "english": ["he", "him"]
+  },
+  {
+    "japanese": "に",
+    "romaji": "ni",
+    "english": ["to", "for", "particle"]
+  },
+  {
+    "japanese": "とって",
+    "romaji": "totte",
+    "english": ["for", "to", "from the perspective of"]
+  },
+  {
+    "japanese": "長",
+    "romaji": "chō",
+    "english": ["long", "chief"]
+  },
+  {
+    "japanese": "時間",
+    "romaji": "jikan",
+    "english": ["time", "hour"]
+  },
+  {
+    "japanese": "労働",
+    "romaji": "rōdō",
+    "english": ["labor", "work"]
+  },
+  {
+    "japanese": "は",
+    "romaji": "wa",
+    "english": ["topic marker particle"]
+  },
+  {
+    "japanese": "当然",
+    "romaji": "tōzen",
+    "english": ["natural", "matter of course", "obvious"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["possessive particle", "of"]
+  },
+  {
+    "japanese": "こと",
+    "romaji": "koto",
+    "english": ["thing", "matter", "fact"]
+  },
+  {
+    "japanese": "で",
+    "romaji": "de",
+    "english": ["particle (indicating means)", "at", "in"]
+  },
+  {
+    "japanese": "あり",
+    "romaji": "ari",
+    "english": ["is", "to be (stem form)"]
+  },
+  {
+    "japanese": "部下",
+    "romaji": "buka",
+    "english": ["subordinate", "staff member"]
+  },
+  {
+    "japanese": "へ",
+    "romaji": "e",
+    "english": ["to", "toward", "particle"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["possessive particle", "of"]
+  },
+  {
+    "japanese": "指導",
+    "romaji": "shidō",
+    "english": ["guidance", "instruction", "coaching"]
+  },
+  {
+    "japanese": "も",
+    "romaji": "mo",
+    "english": ["also", "too", "particle"]
+  },
+  {
+    "japanese": "厳しい",
+    "romaji": "kibishii",
+    "english": ["strict", "severe", "harsh"]
+  },
+  {
+    "japanese": "一方",
+    "romaji": "ippō",
+    "english": ["on the other hand", "meanwhile", "one side"]
+  },
+  {
+    "japanese": "佐藤",
+    "romaji": "Satō",
+    "english": ["Sato (surname)"]
+  },
+  {
+    "japanese": "は",
+    "romaji": "wa",
+    "english": ["topic marker particle"]
+  },
+  {
+    "japanese": "二十八",
+    "romaji": "nijūhachi",
+    "english": ["twenty-eight", "28"]
+  },
+  {
+    "japanese": "歳",
+    "romaji": "sai",
+    "english": ["years old", "age counter"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["possessive particle", "of"]
+  },
+  {
+    "japanese": "若手",
+    "romaji": "wakate",
+    "english": ["young", "young staff", "junior"]
+  },
+  {
+    "japanese": "社員",
+    "romaji": "shain",
+    "english": ["employee", "staff member", "company employee"]
+  },
+  {
+    "japanese": "だ",
+    "romaji": "da",
+    "english": ["is", "copula (plain form)"]
+  },
+  {
+    "japanese": "最新",
+    "romaji": "saishin",
+    "english": ["latest", "newest", "most recent"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["possessive particle", "of"]
+  },
+  {
+    "japanese": "デジタル",
+    "romaji": "dejitaru",
+    "english": ["digital"]
+  },
+  {
+    "japanese": "技術",
+    "romaji": "gijutsu",
+    "english": ["technology", "technique", "skill"]
+  },
+  {
+    "japanese": "に",
+    "romaji": "ni",
+    "english": ["particle (indicating target)", "in", "at"]
+  },
+  {
+    "japanese": "詳しく",
+    "romaji": "kuwashiku",
+    "english": ["knowledgeable", "well-versed", "detailed (adverbial form)"]
+  },
+  {
+    "japanese": "効率",
+    "romaji": "kōritsu",
+    "english": ["efficiency"]
+  },
+  {
+    "japanese": "的",
+    "romaji": "teki",
+    "english": ["suffix meaning -like", "-ical", "adjectival suffix"]
+  },
+  {
+    "japanese": "な",
+    "romaji": "na",
+    "english": ["adjectival particle (na-adjective ending)"]
+  },
+  {
+    "japanese": "働き方",
+    "romaji": "hatarakikata",
+    "english": ["way of working", "work style"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "重視",
+    "romaji": "jūshi",
+    "english": ["emphasis", "importance", "prioritize"]
+  },
+  {
+    "japanese": "して",
+    "romaji": "shite",
+    "english": ["doing", "do (te-form of suru)"]
+  },
+  {
+    "japanese": "いる",
+    "romaji": "iru",
+    "english": ["to be", "exist (for animate objects)", "progressive auxiliary"]
+  },
+  {
+    "japanese": "ある",
+    "romaji": "aru",
+    "english": ["certain", "a", "one"]
+  },
+  {
+    "japanese": "日",
+    "romaji": "hi",
+    "english": ["day", "sun"]
+  },
+  {
+    "japanese": "佐藤",
+    "romaji": "Satō",
+    "english": ["Sato (surname)"]
+  },
+  {
+    "japanese": "が",
+    "romaji": "ga",
+    "english": ["subject marker particle"]
+  },
+  {
+    "japanese": "提案",
+    "romaji": "teian",
+    "english": ["proposal", "suggestion"]
+  },
+  {
+    "japanese": "書",
+    "romaji": "sho",
+    "english": ["document", "book", "writing"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "持って",
+    "romaji": "motte",
+    "english": ["holding", "carrying", "with (te-form of motsu)"]
+  },
+  {
+    "japanese": "田中",
+    "romaji": "Tanaka",
+    "english": ["Tanaka (surname)"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["possessive particle", "of"]
+  },
+  {
+    "japanese": "オフィス",
+    "romaji": "ofisu",
+    "english": ["office"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "訪れた",
+    "romaji": "otozureta",
+    "english": ["visited", "called on (past tense)"]
+  },
+  {
+    "japanese": "部長",
+    "romaji": "buchō",
+    "english": ["department manager", "division chief"]
+  },
+  {
+    "japanese": "リモート",
+    "romaji": "rimōto",
+    "english": ["remote"]
+  },
+  {
+    "japanese": "ワーク",
+    "romaji": "wāku",
+    "english": ["work"]
+  },
+  {
+    "japanese": "制度",
+    "romaji": "seido",
+    "english": ["system", "institution", "scheme"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["possessive particle", "of"]
+  },
+  {
+    "japanese": "導入",
+    "romaji": "dōnyū",
+    "english": ["introduction", "implementation", "adoption"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "提案",
+    "romaji": "teian",
+    "english": ["proposal", "suggestion", "propose"]
+  },
+  {
+    "japanese": "させて",
+    "romaji": "sasete",
+    "english": ["let", "allow", "make (causative te-form)"]
+  },
+  {
+    "japanese": "いただきたい",
+    "romaji": "itadakitai",
+    "english": ["would like to (humble form)", "wish to receive permission"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["explanatory particle", "nominalizer"]
+  },
+  {
+    "japanese": "です",
+    "romaji": "desu",
+    "english": ["is", "copula (polite form)"]
+  },
+  {
+    "japanese": "が",
+    "romaji": "ga",
+    "english": ["but", "particle"]
+  },
+  {
+    "japanese": "田中",
+    "romaji": "Tanaka",
+    "english": ["Tanaka (surname)"]
+  },
+  {
+    "japanese": "は",
+    "romaji": "wa",
+    "english": ["topic marker particle"]
+  },
+  {
+    "japanese": "眉",
+    "romaji": "mayu",
+    "english": ["eyebrow"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "ひそめた",
+    "romaji": "hisometa",
+    "english": ["frowned", "knitted (eyebrows)", "scowled (past tense)"]
+  },
+  {
+    "japanese": "我々",
+    "romaji": "wareware",
+    "english": ["we", "us"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["possessive particle", "of"]
+  },
+  {
+    "japanese": "世代",
+    "romaji": "sedai",
+    "english": ["generation"]
+  },
+  {
+    "japanese": "は",
+    "romaji": "wa",
+    "english": ["topic marker particle"]
+  },
+  {
+    "japanese": "会社",
+    "romaji": "kaisha",
+    "english": ["company", "corporation"]
+  },
+  {
+    "japanese": "に",
+    "romaji": "ni",
+    "english": ["to", "particle"]
+  },
+  {
+    "japanese": "来て",
+    "romaji": "kite",
+    "english": ["come", "coming (te-form)"]
+  },
+  {
+    "japanese": "働く",
+    "romaji": "hataraku",
+    "english": ["work", "to work"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["nominalizer particle"]
+  },
+  {
+    "japanese": "が",
+    "romaji": "ga",
+    "english": ["subject marker particle"]
+  },
+  {
+    "japanese": "当たり前",
+    "romaji": "atarimae",
+    "english": ["natural", "normal", "obvious", "matter of course"]
+  },
+  {
+    "japanese": "だった",
+    "romaji": "datta",
+    "english": ["was", "copula (past tense)"]
+  },
+  {
+    "japanese": "在宅",
+    "romaji": "zaitaku",
+    "english": ["at home", "working from home"]
+  },
+  {
+    "japanese": "勤務",
+    "romaji": "kinmu",
+    "english": ["work", "duty", "service"]
+  },
+  {
+    "japanese": "など",
+    "romaji": "nado",
+    "english": ["etc.", "and so on", "such as"]
+  },
+  {
+    "japanese": "仕事",
+    "romaji": "shigoto",
+    "english": ["work", "job"]
+  },
+  {
+    "japanese": "に",
+    "romaji": "ni",
+    "english": ["to", "toward", "particle"]
+  },
+  {
+    "japanese": "対する",
+    "romaji": "taisuru",
+    "english": ["toward", "to", "regarding"]
+  },
+  {
+    "japanese": "姿勢",
+    "romaji": "shisei",
+    "english": ["attitude", "posture", "stance"]
+  },
+  {
+    "japanese": "が",
+    "romaji": "ga",
+    "english": ["subject marker particle"]
+  },
+  {
+    "japanese": "疑われる",
+    "romaji": "utaagawareru",
+    "english": ["be doubted", "be questioned", "be suspected (passive)"]
+  },
+  {
+    "japanese": "じゃない",
+    "romaji": "janai",
+    "english": ["isn't it", "right?", "negative copula"]
+  },
+  {
+    "japanese": "か",
+    "romaji": "ka",
+    "english": ["question particle"]
+  },
+  {
+    "japanese": "しかし",
+    "romaji": "shikashi",
+    "english": ["however", "but"]
+  },
+  {
+    "japanese": "効率",
+    "romaji": "kōritsu",
+    "english": ["efficiency"]
+  },
+  {
+    "japanese": "が",
+    "romaji": "ga",
+    "english": ["subject marker particle"]
+  },
+  {
+    "japanese": "上がれば",
+    "romaji": "agareba",
+    "english": ["if it goes up", "if it improves (conditional)"]
+  },
+  {
+    "japanese": "残業",
+    "romaji": "zangyō",
+    "english": ["overtime work", "overtime"]
+  },
+  {
+    "japanese": "も",
+    "romaji": "mo",
+    "english": ["also", "too", "particle"]
+  },
+  {
+    "japanese": "減らせます",
+    "romaji": "herasemasu",
+    "english": ["can reduce", "can decrease (polite potential)"]
+  },
+  {
+    "japanese": "し",
+    "romaji": "shi",
+    "english": ["and", "and what's more", "conjunctive particle"]
+  },
+  {
+    "japanese": "社員",
+    "romaji": "shain",
+    "english": ["employee", "staff member"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["possessive particle", "of"]
+  },
+  {
+    "japanese": "満足",
+    "romaji": "manzoku",
+    "english": ["satisfaction", "contentment"]
+  },
+  {
+    "japanese": "度",
+    "romaji": "do",
+    "english": ["degree", "level"]
+  },
+  {
+    "japanese": "も",
+    "romaji": "mo",
+    "english": ["also", "too", "particle"]
+  },
+  {
+    "japanese": "効率",
+    "romaji": "kōritsu",
+    "english": ["efficiency"]
+  },
+  {
+    "japanese": "だけ",
+    "romaji": "dake",
+    "english": ["only", "just", "merely"]
+  },
+  {
+    "japanese": "が",
+    "romaji": "ga",
+    "english": ["subject marker particle"]
+  },
+  {
+    "japanese": "全て",
+    "romaji": "subete",
+    "english": ["all", "everything", "entirely"]
+  },
+  {
+    "japanese": "で",
+    "romaji": "de",
+    "english": ["particle (copula)", "at"]
+  },
+  {
+    "japanese": "は",
+    "romaji": "wa",
+    "english": ["topic marker particle"]
+  },
+  {
+    "japanese": "ない",
+    "romaji": "nai",
+    "english": ["not", "negative auxiliary"]
+  },
+  {
+    "japanese": "顔",
+    "romaji": "kao",
+    "english": ["face"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "合わせて",
+    "romaji": "awasete",
+    "english": ["meet", "match", "put together (te-form)"]
+  },
+  {
+    "japanese": "こそ",
+    "romaji": "koso",
+    "english": ["precisely", "emphasis particle", "exactly"]
+  },
+  {
+    "japanese": "チームワーク",
+    "romaji": "chīmuwāku",
+    "english": ["teamwork"]
+  },
+  {
+    "japanese": "が",
+    "romaji": "ga",
+    "english": ["subject marker particle"]
+  },
+  {
+    "japanese": "育つ",
+    "romaji": "sodatsu",
+    "english": ["grow", "develop", "be nurtured"]
+  },
+  {
+    "japanese": "ん",
+    "romaji": "n",
+    "english": ["explanatory particle (contraction of no)"]
+  },
+  {
+    "japanese": "だ",
+    "romaji": "da",
+    "english": ["is", "copula (emphatic)"]
+  },
+  {
+    "japanese": "議論",
+    "romaji": "giron",
+    "english": ["discussion", "debate", "argument"]
+  },
+  {
+    "japanese": "は",
+    "romaji": "wa",
+    "english": ["topic marker particle"]
+  },
+  {
+    "japanese": "平行線",
+    "romaji": "heikōsen",
+    "english": ["parallel lines", "deadlock", "impasse"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "たどった",
+    "romaji": "tadotta",
+    "english": ["followed", "traced", "went along (past tense)"]
+  },
+  {
+    "japanese": "佐藤",
+    "romaji": "Satō",
+    "english": ["Sato (surname)"]
+  },
+  {
+    "japanese": "は",
+    "romaji": "wa",
+    "english": ["topic marker particle"]
+  },
+  {
+    "japanese": "不満",
+    "romaji": "fuman",
+    "english": ["dissatisfaction", "discontent", "complaint"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "抱え",
+    "romaji": "kakae",
+    "english": ["hold", "carry", "harbor (stem form)"]
+  },
+  {
+    "japanese": "田中",
+    "romaji": "Tanaka",
+    "english": ["Tanaka (surname)"]
+  },
+  {
+    "japanese": "は",
+    "romaji": "wa",
+    "english": ["topic marker particle"]
+  },
+  {
+    "japanese": "頑固",
+    "romaji": "ganko",
+    "english": ["stubborn", "obstinate"]
+  },
+  {
+    "japanese": "だ",
+    "romaji": "da",
+    "english": ["is", "copula"]
+  },
+  {
+    "japanese": "と",
+    "romaji": "to",
+    "english": ["that", "quotation particle"]
+  },
+  {
+    "japanese": "思われる",
+    "romaji": "omowareru",
+    "english": ["be thought", "be considered", "seem (passive)"]
+  },
+  {
+    "japanese": "ように",
+    "romaji": "yō ni",
+    "english": ["so that", "in such a way", "to"]
+  },
+  {
+    "japanese": "なった",
+    "romaji": "natta",
+    "english": ["became", "came to be (past tense)"]
+  },
+  {
+    "japanese": "この",
+    "romaji": "kono",
+    "english": ["this"]
+  },
+  {
+    "japanese": "状況",
+    "romaji": "jōkyō",
+    "english": ["situation", "circumstances", "condition"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "見かねた",
+    "romaji": "mikaneta",
+    "english": ["couldn't stand watching", "couldn't bear to see (past tense)"]
+  },
+  {
+    "japanese": "山田",
+    "romaji": "Yamada",
+    "english": ["Yamada (surname)"]
+  },
+  {
+    "japanese": "課長",
+    "romaji": "kachō",
+    "english": ["section chief", "section manager"]
+  },
+  {
+    "japanese": "が",
+    "romaji": "ga",
+    "english": ["subject marker particle"]
+  },
+  {
+    "japanese": "二人",
+    "romaji": "futari",
+    "english": ["two people", "both"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "会議",
+    "romaji": "kaigi",
+    "english": ["meeting", "conference"]
+  },
+  {
+    "japanese": "室",
+    "romaji": "shitsu",
+    "english": ["room"]
+  },
+  {
+    "japanese": "に",
+    "romaji": "ni",
+    "english": ["to", "particle"]
+  },
+  {
+    "japanese": "呼んだ",
+    "romaji": "yonda",
+    "english": ["called", "invited", "summoned (past tense)"]
+  },
+  {
+    "japanese": "山田",
+    "romaji": "Yamada",
+    "english": ["Yamada (surname)"]
+  },
+  {
+    "japanese": "は",
+    "romaji": "wa",
+    "english": ["topic marker particle"]
+  },
+  {
+    "japanese": "四十",
+    "romaji": "yonjū",
+    "english": ["forty", "40"]
+  },
+  {
+    "japanese": "歳",
+    "romaji": "sai",
+    "english": ["years old", "age counter"]
+  },
+  {
+    "japanese": "で",
+    "romaji": "de",
+    "english": ["at", "particle"]
+  },
+  {
+    "japanese": "両方",
+    "romaji": "ryōhō",
+    "english": ["both", "both sides"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["possessive particle", "of"]
+  },
+  {
+    "japanese": "世代",
+    "romaji": "sedai",
+    "english": ["generation"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["possessive particle", "of"]
+  },
+  {
+    "japanese": "考え方",
+    "romaji": "kangaekata",
+    "english": ["way of thinking", "viewpoint", "perspective"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "理解",
+    "romaji": "rikai",
+    "english": ["understanding", "comprehension"]
+  },
+  {
+    "japanese": "できる",
+    "romaji": "dekiru",
+    "english": ["can do", "be able to", "possible"]
+  },
+  {
+    "japanese": "立場",
+    "romaji": "tachiba",
+    "english": ["position", "standpoint", "situation"]
+  },
+  {
+    "japanese": "に",
+    "romaji": "ni",
+    "english": ["at", "in", "particle"]
+  },
+  {
+    "japanese": "あった",
+    "romaji": "atta",
+    "english": ["was", "existed (past tense)"]
+  },
+  {
+    "japanese": "お",
+    "romaji": "o",
+    "english": ["honorific prefix"]
+  },
+  {
+    "japanese": "二人",
+    "romaji": "futari",
+    "english": ["two people", "both"]
+  },
+  {
+    "japanese": "とも",
+    "romaji": "tomo",
+    "english": ["both", "particle"]
+  },
+  {
+    "japanese": "相手",
+    "romaji": "aite",
+    "english": ["partner", "opponent", "other party"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["possessive particle", "of"]
+  },
+  {
+    "japanese": "意見",
+    "romaji": "iken",
+    "english": ["opinion", "view"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "完全",
+    "romaji": "kanzen",
+    "english": ["complete", "perfect"]
+  },
+  {
+    "japanese": "に",
+    "romaji": "ni",
+    "english": ["adverbial particle", "completely"]
+  },
+  {
+    "japanese": "否定",
+    "romaji": "hitei",
+    "english": ["denial", "negation", "rejection"]
+  },
+  {
+    "japanese": "して",
+    "romaji": "shite",
+    "english": ["do", "doing (te-form)"]
+  },
+  {
+    "japanese": "いる",
+    "romaji": "iru",
+    "english": ["be", "exist", "progressive auxiliary"]
+  },
+  {
+    "japanese": "わけ",
+    "romaji": "wake",
+    "english": ["reason", "meaning", "circumstances"]
+  },
+  {
+    "japanese": "で",
+    "romaji": "de",
+    "english": ["particle (copula)"]
+  },
+  {
+    "japanese": "は",
+    "romaji": "wa",
+    "english": ["topic marker particle"]
+  },
+  {
+    "japanese": "ない",
+    "romaji": "nai",
+    "english": ["not", "negative auxiliary"]
+  },
+  {
+    "japanese": "と",
+    "romaji": "to",
+    "english": ["that", "quotation particle"]
+  },
+  {
+    "japanese": "思います",
+    "romaji": "omoimasu",
+    "english": ["think", "believe (polite form)"]
+  },
+  {
+    "japanese": "田中",
+    "romaji": "Tanaka",
+    "english": ["Tanaka (surname)"]
+  },
+  {
+    "japanese": "部長",
+    "romaji": "buchō",
+    "english": ["department manager", "division chief"]
+  },
+  {
+    "japanese": "は",
+    "romaji": "wa",
+    "english": ["topic marker particle"]
+  },
+  {
+    "japanese": "会社",
+    "romaji": "kaisha",
+    "english": ["company", "corporation"]
+  },
+{
+    "japanese": "へ",
+    "romaji": "e",
+    "english": ["to", "toward", "particle"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["possessive particle", "of"]
+  },
+  {
+    "japanese": "忠誠",
+    "romaji": "chūsei",
+    "english": ["loyalty", "allegiance"]
+  },
+  {
+    "japanese": "心",
+    "romaji": "shin",
+    "english": ["heart", "mind", "spirit"]
+  },
+  {
+    "japanese": "と",
+    "romaji": "to",
+    "english": ["and", "particle"]
+  },
+  {
+    "japanese": "対面",
+    "romaji": "taimen",
+    "english": ["face-to-face", "in-person"]
+  },
+  {
+    "japanese": "で",
+    "romaji": "de",
+    "english": ["by", "with", "particle"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["possessive particle", "of"]
+  },
+  {
+    "japanese": "コミュニケーション",
+    "romaji": "komyunikēshon",
+    "english": ["communication"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["possessive particle", "of"]
+  },
+  {
+    "japanese": "重要",
+    "romaji": "jūyō",
+    "english": ["important", "importance", "significant"]
+  },
+  {
+    "japanese": "性",
+    "romaji": "sei",
+    "english": ["nature", "-ness", "quality"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "佐藤",
+    "romaji": "Satō",
+    "english": ["Sato (surname)"]
+  },
+  {
+    "japanese": "さん",
+    "romaji": "san",
+    "english": ["Mr.", "Ms.", "honorific suffix"]
+  },
+  {
+    "japanese": "は",
+    "romaji": "wa",
+    "english": ["topic marker particle"]
+  },
+  {
+    "japanese": "時代",
+    "romaji": "jidai",
+    "english": ["era", "period", "age"]
+  },
+  {
+    "japanese": "に",
+    "romaji": "ni",
+    "english": ["to", "particle"]
+  },
+  {
+    "japanese": "合わせた",
+    "romaji": "awaseta",
+    "english": ["matched", "adapted", "suited to (past tense)"]
+  },
+  {
+    "japanese": "働き方",
+    "romaji": "hatarakikata",
+    "english": ["way of working", "work style"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["possessive particle", "of"]
+  },
+  {
+    "japanese": "必要",
+    "romaji": "hitsuyō",
+    "english": ["necessity", "need", "necessary"]
+  },
+  {
+    "japanese": "性",
+    "romaji": "sei",
+    "english": ["nature", "-ness", "quality"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "訴えて",
+    "romaji": "uttaete",
+    "english": ["appeal", "advocate", "assert (te-form)"]
+  },
+  {
+    "japanese": "いる",
+    "romaji": "iru",
+    "english": ["be", "exist", "progressive auxiliary"]
+  },
+  {
+    "japanese": "ん",
+    "romaji": "n",
+    "english": ["explanatory particle (contraction of no)"]
+  },
+  {
+    "japanese": "です",
+    "romaji": "desu",
+    "english": ["is", "copula (polite form)"]
+  },
+  {
+    "japanese": "田中",
+    "romaji": "Tanaka",
+    "english": ["Tanaka (surname)"]
+  },
+  {
+    "japanese": "が",
+    "romaji": "ga",
+    "english": ["subject marker particle"]
+  },
+  {
+    "japanese": "口",
+    "romaji": "kuchi",
+    "english": ["mouth"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "開いた",
+    "romaji": "aita",
+    "english": ["opened", "spoke (past tense)"]
+  },
+  {
+    "japanese": "確か",
+    "romaji": "tashika",
+    "english": ["certain", "sure", "indeed"]
+  },
+  {
+    "japanese": "に",
+    "romaji": "ni",
+    "english": ["adverbial particle", "certainly"]
+  },
+  {
+    "japanese": "時代",
+    "romaji": "jidai",
+    "english": ["era", "period", "age", "times"]
+  },
+  {
+    "japanese": "が",
+    "romaji": "ga",
+    "english": ["subject marker particle"]
+  },
+  {
+    "japanese": "変わって",
+    "romaji": "kawatte",
+    "english": ["change", "changing (te-form)"]
+  },
+  {
+    "japanese": "いる",
+    "romaji": "iru",
+    "english": ["be", "exist", "progressive auxiliary"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["nominalizer particle"]
+  },
+  {
+    "japanese": "は",
+    "romaji": "wa",
+    "english": ["topic marker particle"]
+  },
+  {
+    "japanese": "理解",
+    "romaji": "rikai",
+    "english": ["understanding", "comprehension", "understand"]
+  },
+  {
+    "japanese": "して",
+    "romaji": "shite",
+    "english": ["do", "doing (te-form)"]
+  },
+  {
+    "japanese": "いる",
+    "romaji": "iru",
+    "english": ["be", "exist", "progressive auxiliary"]
+  },
+  {
+    "japanese": "しかし",
+    "romaji": "shikashi",
+    "english": ["however", "but"]
+  },
+  {
+    "japanese": "伝統",
+    "romaji": "dentō",
+    "english": ["tradition", "traditional"]
+  },
+  {
+    "japanese": "的",
+    "romaji": "teki",
+    "english": ["suffix meaning -like", "-ical", "adjectival suffix"]
+  },
+  {
+    "japanese": "な",
+    "romaji": "na",
+    "english": ["adjectival particle"]
+  },
+  {
+    "japanese": "価値",
+    "romaji": "kachi",
+    "english": ["value", "worth"]
+  },
+  {
+    "japanese": "観",
+    "romaji": "kan",
+    "english": ["view", "sense", "perspective"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "捨てる",
+    "romaji": "suteru",
+    "english": ["throw away", "abandon", "discard"]
+  },
+  {
+    "japanese": "わけ",
+    "romaji": "wake",
+    "english": ["reason", "circumstance"]
+  },
+  {
+    "japanese": "に",
+    "romaji": "ni",
+    "english": ["particle"]
+  },
+  {
+    "japanese": "は",
+    "romaji": "wa",
+    "english": ["topic marker particle"]
+  },
+  {
+    "japanese": "いかない",
+    "romaji": "ikanai",
+    "english": ["cannot", "won't do", "shouldn't"]
+  },
+  {
+    "japanese": "捨てる",
+    "romaji": "suteru",
+    "english": ["throw away", "abandon", "discard"]
+  },
+  {
+    "japanese": "必要",
+    "romaji": "hitsuyō",
+    "english": ["necessity", "need", "necessary"]
+  },
+  {
+    "japanese": "は",
+    "romaji": "wa",
+    "english": ["topic marker particle"]
+  },
+  {
+    "japanese": "ありません",
+    "romaji": "arimasen",
+    "english": ["not exist", "there is no (polite negative)"]
+  },
+  {
+    "japanese": "と",
+    "romaji": "to",
+    "english": ["quotation particle"]
+  },
+  {
+    "japanese": "山田",
+    "romaji": "Yamada",
+    "english": ["Yamada (surname)"]
+  },
+  {
+    "japanese": "が",
+    "romaji": "ga",
+    "english": ["subject marker particle"]
+  },
+  {
+    "japanese": "続けた",
+    "romaji": "tsuzuketa",
+    "english": ["continued", "went on (past tense)"]
+  },
+  {
+    "japanese": "両立",
+    "romaji": "ryōritsu",
+    "english": ["coexistence", "compatibility", "balance"]
+  },
+  {
+    "japanese": "させれば",
+    "romaji": "sasereba",
+    "english": ["if (we) make coexist", "if (we) balance (causative conditional)"]
+  },
+  {
+    "japanese": "いい",
+    "romaji": "ii",
+    "english": ["good", "fine"]
+  },
+  {
+    "japanese": "ん",
+    "romaji": "n",
+    "english": ["explanatory particle (contraction of no)"]
+  },
+  {
+    "japanese": "です",
+    "romaji": "desu",
+    "english": ["is", "copula (polite form)"]
+  },
+  {
+    "japanese": "例えば",
+    "romaji": "tatoeba",
+    "english": ["for example", "for instance"]
+  },
+  {
+    "japanese": "週",
+    "romaji": "shū",
+    "english": ["week"]
+  },
+  {
+    "japanese": "に",
+    "romaji": "ni",
+    "english": ["per", "particle"]
+  },
+  {
+    "japanese": "二",
+    "romaji": "ni",
+    "english": ["two", "2"]
+  },
+  {
+    "japanese": "日",
+    "romaji": "nichi",
+    "english": ["day", "days (counter)"]
+  },
+  {
+    "japanese": "は",
+    "romaji": "wa",
+    "english": ["topic marker particle"]
+  },
+  {
+    "japanese": "リモート",
+    "romaji": "rimōto",
+    "english": ["remote"]
+  },
+  {
+    "japanese": "ワーク",
+    "romaji": "wāku",
+    "english": ["work"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "認める",
+    "romaji": "mitomeru",
+    "english": ["recognize", "acknowledge", "allow"]
+  },
+  {
+    "japanese": "一方",
+    "romaji": "ippō",
+    "english": ["on the other hand", "meanwhile", "while"]
+  },
+  {
+    "japanese": "で",
+    "romaji": "de",
+    "english": ["particle (and)"]
+  },
+  {
+    "japanese": "重要",
+    "romaji": "jūyō",
+    "english": ["important", "significant"]
+  },
+  {
+    "japanese": "な",
+    "romaji": "na",
+    "english": ["adjectival particle"]
+  },
+  {
+    "japanese": "会議",
+    "romaji": "kaigi",
+    "english": ["meeting", "conference"]
+  },
+  {
+    "japanese": "や",
+    "romaji": "ya",
+    "english": ["and", "such as", "particle"]
+  },
+  {
+    "japanese": "新人",
+    "romaji": "shinjin",
+    "english": ["new employee", "newcomer", "new recruit"]
+  },
+  {
+    "japanese": "研修",
+    "romaji": "kenshū",
+    "english": ["training", "study"]
+  },
+  {
+    "japanese": "は",
+    "romaji": "wa",
+    "english": ["topic marker particle"]
+  },
+  {
+    "japanese": "対面",
+    "romaji": "taimen",
+    "english": ["face-to-face", "in-person"]
+  },
+  {
+    "japanese": "で",
+    "romaji": "de",
+    "english": ["by means of", "with", "particle"]
+  },
+  {
+    "japanese": "行う",
+    "romaji": "okonau",
+    "english": ["conduct", "perform", "carry out"]
+  },
+  {
+    "japanese": "これ",
+    "romaji": "kore",
+    "english": ["this"]
+  },
+  {
+    "japanese": "なら",
+    "romaji": "nara",
+    "english": ["if", "if it's", "conditional particle"]
+  },
+  {
+    "japanese": "伝統",
+    "romaji": "dentō",
+    "english": ["tradition"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "守り",
+    "romaji": "mamori",
+    "english": ["protect", "preserve", "keep (stem form)"]
+  },
+  {
+    "japanese": "つつ",
+    "romaji": "tsutsu",
+    "english": ["while", "as"]
+  },
+  {
+    "japanese": "柔軟",
+    "romaji": "jūnan",
+    "english": ["flexible", "flexibility"]
+  },
+  {
+    "japanese": "性",
+    "romaji": "sei",
+    "english": ["nature", "-ness", "quality"]
+  },
+  {
+    "japanese": "も",
+    "romaji": "mo",
+    "english": ["also", "too", "particle"]
+  },
+  {
+    "japanese": "確保",
+    "romaji": "kakuho",
+    "english": ["securing", "ensuring", "guarantee"]
+  },
+  {
+    "japanese": "できます",
+    "romaji": "dekimasu",
+    "english": ["can do", "be able to (polite form)"]
+  },
+  {
+    "japanese": "佐藤",
+    "romaji": "Satō",
+    "english": ["Sato (surname)"]
+  },
+  {
+    "japanese": "が",
+    "romaji": "ga",
+    "english": ["subject marker particle"]
+  },
+  {
+    "japanese": "前向き",
+    "romaji": "maemuki",
+    "english": ["positive", "forward-looking", "constructive"]
+  },
+  {
+    "japanese": "に",
+    "romaji": "ni",
+    "english": ["adverbial particle"]
+  },
+  {
+    "japanese": "答えた",
+    "romaji": "kotaeta",
+    "english": ["answered", "responded (past tense)"]
+  },
+  {
+    "japanese": "それ",
+    "romaji": "sore",
+    "english": ["that", "it"]
+  },
+  {
+    "japanese": "なら",
+    "romaji": "nara",
+    "english": ["if that's the case", "then", "conditional particle"]
+  },
+  {
+    "japanese": "対面",
+    "romaji": "taimen",
+    "english": ["face-to-face", "in-person"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["possessive particle", "of"]
+  },
+  {
+    "japanese": "価値",
+    "romaji": "kachi",
+    "english": ["value", "worth"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "損なわ",
+    "romaji": "sokonawa",
+    "english": ["damage", "harm", "impair (negative stem)"]
+  },
+  {
+    "japanese": "ず",
+    "romaji": "zu",
+    "english": ["without", "negative conjunctive particle"]
+  },
+  {
+    "japanese": "に",
+    "romaji": "ni",
+    "english": ["particle"]
+  },
+  {
+    "japanese": "効率",
+    "romaji": "kōritsu",
+    "english": ["efficiency"]
+  },
+  {
+    "japanese": "も",
+    "romaji": "mo",
+    "english": ["also", "too", "particle"]
+  },
+  {
+    "japanese": "上げられます",
+    "romaji": "ageraremasu",
+    "english": ["can raise", "can improve (polite potential)"]
+  },
+  {
+    "japanese": "ね",
+    "romaji": "ne",
+    "english": ["isn't it", "right", "sentence-ending particle"]
+  },
+  {
+    "japanese": "田中",
+    "romaji": "Tanaka",
+    "english": ["Tanaka (surname)"]
+  },
+  {
+    "japanese": "は",
+    "romaji": "wa",
+    "english": ["topic marker particle"]
+  },
+  {
+    "japanese": "少し",
+    "romaji": "sukoshi",
+    "english": ["a little", "slightly", "a bit"]
+  },
+  {
+    "japanese": "考えて",
+    "romaji": "kangaete",
+    "english": ["think", "consider (te-form)"]
+  },
+  {
+    "japanese": "から",
+    "romaji": "kara",
+    "english": ["after", "from", "particle"]
+  },
+  {
+    "japanese": "言った",
+    "romaji": "itta",
+    "english": ["said", "spoke (past tense)"]
+  },
+  {
+    "japanese": "若い",
+    "romaji": "wakai",
+    "english": ["young"]
+  },
+  {
+    "japanese": "世代",
+    "romaji": "sedai",
+    "english": ["generation"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["possessive particle", "of"]
+  },
+  {
+    "japanese": "意見",
+    "romaji": "iken",
+    "english": ["opinion", "view"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "聞か",
+    "romaji": "kika",
+    "english": ["listen", "hear (negative stem)"]
+  },
+  {
+    "japanese": "ざる",
+    "romaji": "zaru",
+    "english": ["must", "cannot help but (archaic negative)"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "得ない",
+    "romaji": "enai",
+    "english": ["cannot help", "cannot avoid"]
+  },
+  {
+    "japanese": "時代",
+    "romaji": "jidai",
+    "english": ["era", "period", "age", "times"]
+  },
+  {
+    "japanese": "に",
+    "romaji": "ni",
+    "english": ["particle"]
+  },
+  {
+    "japanese": "なった",
+    "romaji": "natta",
+    "english": ["became", "came to be (past tense)"]
+  },
+  {
+    "japanese": "という",
+    "romaji": "to iu",
+    "english": ["that", "called", "means"]
+  },
+  {
+    "japanese": "こと",
+    "romaji": "koto",
+    "english": ["thing", "fact", "matter"]
+  },
+  {
+    "japanese": "か",
+    "romaji": "ka",
+    "english": ["question particle", "I wonder"]
+  },
+  {
+    "japanese": "悪い",
+    "romaji": "warui",
+    "english": ["bad", "poor"]
+  },
+  {
+    "japanese": "提案",
+    "romaji": "teian",
+    "english": ["proposal", "suggestion"]
+  },
+  {
+    "japanese": "で",
+    "romaji": "de",
+    "english": ["particle (copula)", "at"]
+  },
+  {
+    "japanese": "は",
+    "romaji": "wa",
+    "english": ["topic marker particle"]
+  },
+  {
+    "japanese": "ない",
+    "romaji": "nai",
+    "english": ["not", "negative auxiliary"]
+  },
+  {
+    "japanese": "な",
+    "romaji": "na",
+    "english": ["sentence-ending particle (colloquial)"]
+  },
+  {
+    "japanese": "この",
+    "romaji": "kono",
+    "english": ["this"]
+  },
+  {
+    "japanese": "妥協",
+    "romaji": "dakyō",
+    "english": ["compromise", "concession"]
+  },
+  {
+    "japanese": "案",
+    "romaji": "an",
+    "english": ["plan", "proposal", "idea"]
+  },
+  {
+    "japanese": "により",
+    "romaji": "ni yori",
+    "english": ["by means of", "due to", "through"]
+  },
+  {
+    "japanese": "部署",
+    "romaji": "busho",
+    "english": ["department", "section"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["possessive particle", "of"]
+  },
+  {
+    "japanese": "雰囲気",
+    "romaji": "fun'iki",
+    "english": ["atmosphere", "mood", "ambiance"]
+  },
+  {
+    "japanese": "は",
+    "romaji": "wa",
+    "english": ["topic marker particle"]
+  },
+  {
+    "japanese": "改善",
+    "romaji": "kaizen",
+    "english": ["improvement", "reform"]
+  },
+  {
+    "japanese": "された",
+    "romaji": "sareta",
+    "english": ["was done", "was improved (passive past tense)"]
+  },
+  {
+    "japanese": "田中",
+    "romaji": "Tanaka",
+    "english": ["Tanaka (surname)"]
+  },
+  {
+    "japanese": "は",
+    "romaji": "wa",
+    "english": ["topic marker particle"]
+  },
+  {
+    "japanese": "新しい",
+    "romaji": "atarashii",
+    "english": ["new"]
+  },
+  {
+    "japanese": "働き方",
+    "romaji": "hatarakikata",
+    "english": ["way of working", "work style"]
+  },
+  {
+    "japanese": "に",
+    "romaji": "ni",
+    "english": ["particle"]
+  },
+  {
+    "japanese": "も",
+    "romaji": "mo",
+    "english": ["also", "too", "even", "particle"]
+  },
+  {
+    "japanese": "価値",
+    "romaji": "kachi",
+    "english": ["value", "worth"]
+  },
+  {
+    "japanese": "が",
+    "romaji": "ga",
+    "english": ["subject marker particle"]
+  },
+  {
+    "japanese": "ある",
+    "romaji": "aru",
+    "english": ["exist", "have", "there is"]
+  },
+  {
+    "japanese": "こと",
+    "romaji": "koto",
+    "english": ["thing", "fact", "matter"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "認め",
+    "romaji": "mitome",
+    "english": ["recognize", "acknowledge", "admit (stem form)"]
+  },
+  {
+    "japanese": "佐藤",
+    "romaji": "Satō",
+    "english": ["Sato (surname)"]
+  },
+  {
+    "japanese": "は",
+    "romaji": "wa",
+    "english": ["topic marker particle"]
+  },
+  {
+    "japanese": "経験",
+    "romaji": "keiken",
+    "english": ["experience"]
+  },
+  {
+    "japanese": "から",
+    "romaji": "kara",
+    "english": ["from", "particle"]
+  },
+  {
+    "japanese": "学ぶ",
+    "romaji": "manabu",
+    "english": ["learn", "study"]
+  },
+  {
+    "japanese": "こと",
+    "romaji": "koto",
+    "english": ["thing", "matter"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["possessive particle", "of"]
+  },
+  {
+    "japanese": "重要",
+    "romaji": "jūyō",
+    "english": ["important", "importance", "significant"]
+  },
+  {
+    "japanese": "性",
+    "romaji": "sei",
+    "english": ["nature", "-ness", "quality"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "理解",
+    "romaji": "rikai",
+    "english": ["understanding", "comprehension", "understand"]
+  },
+  {
+    "japanese": "した",
+    "romaji": "shita",
+    "english": ["did", "past tense of suru"]
+  },
+  {
+    "japanese": "世代",
+    "romaji": "sedai",
+    "english": ["generation"]
+  },
+  {
+    "japanese": "が",
+    "romaji": "ga",
+    "english": ["subject marker particle"]
+  },
+  {
+    "japanese": "違えば",
+    "romaji": "chigaeba",
+    "english": ["if different", "if it differs (conditional)"]
+  },
+  {
+    "japanese": "考え方",
+    "romaji": "kangaekata",
+    "english": ["way of thinking", "viewpoint", "perspective"]
+  },
+  {
+    "japanese": "も",
+    "romaji": "mo",
+    "english": ["also", "too", "particle"]
+  },
+  {
+    "japanese": "異なる",
+    "romaji": "kotonaru",
+    "english": ["differ", "be different", "vary"]
+  },
+  {
+    "japanese": "しかし",
+    "romaji": "shikashi",
+    "english": ["however", "but"]
+  },
+  {
+    "japanese": "互い",
+    "romaji": "tagai",
+    "english": ["mutual", "each other"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "尊重",
+    "romaji": "sonchō",
+    "english": ["respect", "esteem"]
+  },
+  {
+    "japanese": "し",
+    "romaji": "shi",
+    "english": ["and", "conjunctive particle"]
+  },
+  {
+    "japanese": "対話",
+    "romaji": "taiwa",
+    "english": ["dialogue", "conversation", "discussion"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "重ねる",
+    "romaji": "kasaneru",
+    "english": ["pile up", "repeat", "accumulate"]
+  },
+  {
+    "japanese": "こと",
+    "romaji": "koto",
+    "english": ["thing", "act"]
+  },
+  {
+    "japanese": "で",
+    "romaji": "de",
+    "english": ["by", "through", "particle"]
+  },
+  {
+    "japanese": "より",
+    "romaji": "yori",
+    "english": ["more", "better"]
+  },
+  {
+    "japanese": "良い",
+    "romaji": "yoi",
+    "english": ["good", "better"]
+  },
+  {
+    "japanese": "職場",
+    "romaji": "shokuba",
+    "english": ["workplace", "office"]
+  },
+  {
+    "japanese": "環境",
+    "romaji": "kankyō",
+    "english": ["environment", "surroundings"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "作る",
+    "romaji": "tsukuru",
+    "english": ["make", "create", "build"]
+  },
+  {
+    "japanese": "こと",
+    "romaji": "koto",
+    "english": ["thing", "act"]
+  },
+  {
+    "japanese": "が",
+    "romaji": "ga",
+    "english": ["subject marker particle"]
+  },
+  {
+    "japanese": "できる",
+    "romaji": "dekiru",
+    "english": ["can do", "be able to", "possible"]
+  },
+  {
+    "japanese": "山田",
+    "romaji": "Yamada",
+    "english": ["Yamada (surname)"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["possessive particle", "of"]
+  },
+  {
+    "japanese": "仲介",
+    "romaji": "chūkai",
+    "english": ["mediation", "intermediation", "intervention"]
+  },
+  {
+    "japanese": "により",
+    "romaji": "ni yori",
+    "english": ["by means of", "through", "due to"]
+  },
+  {
+    "japanese": "二人",
+    "romaji": "futari",
+    "english": ["two people", "both"]
+  },
+  {
+    "japanese": "は",
+    "romaji": "wa",
+    "english": ["topic marker particle"]
+  },
+  {
+    "japanese": "それ",
+    "romaji": "sore",
+    "english": ["that", "it"]
+  },
+  {
+    "japanese": "を",
+    "romaji": "o",
+    "english": ["object marker particle"]
+  },
+  {
+    "japanese": "実感",
+    "romaji": "jikkan",
+    "english": ["real feeling", "actual feeling", "realize"]
+  },
+  {
+    "japanese": "した",
+    "romaji": "shita",
+    "english": ["did", "past tense of suru"]
+  },
+  {
+    "japanese": "の",
+    "romaji": "no",
+    "english": ["explanatory particle", "nominalizer"]
+  },
+  {
+    "japanese": "で",
+    "romaji": "de",
+    "english": ["particle (copula)", "is"]
+  },
+  {
+    "japanese": "ある",
+    "romaji": "aru",
+    "english": ["is", "to be", "exist"]
+  }
+]

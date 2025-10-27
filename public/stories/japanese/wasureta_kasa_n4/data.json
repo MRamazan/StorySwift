@@ -1,0 +1,737 @@
+[
+  {
+    "word": "あきこ",
+    "romaji": "akiko",
+    "translation": ["Akiko (name)"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "二十五",
+    "romaji": "nijuugo",
+    "translation": ["twenty-five"]
+  },
+  {
+    "word": "歳",
+    "romaji": "sai",
+    "translation": ["years old", "age counter"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "会社員",
+    "romaji": "kaishain",
+    "translation": ["company employee", "office worker"]
+  },
+  {
+    "word": "です",
+    "romaji": "desu",
+    "translation": ["is", "to be (polite)"]
+  },
+  {
+    "word": "今日",
+    "romaji": "kyou",
+    "translation": ["today"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "仕事",
+    "romaji": "shigoto",
+    "translation": ["work", "job"]
+  },
+  {
+    "word": "が",
+    "romaji": "ga",
+    "translation": ["subject marker particle"]
+  },
+  {
+    "word": "終わって",
+    "romaji": "owatte",
+    "translation": ["finished", "ended (te-form)"]
+  },
+  {
+    "word": "電車",
+    "romaji": "densha",
+    "translation": ["train"]
+  },
+  {
+    "word": "で",
+    "romaji": "de",
+    "translation": ["by", "by means of", "method particle"]
+  },
+  {
+    "word": "家",
+    "romaji": "ie/uchi",
+    "translation": ["home", "house"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["to", "direction particle"]
+  },
+  {
+    "word": "帰りました",
+    "romaji": "kaerimashita",
+    "translation": ["returned", "went home (past tense)"]
+  },
+  {
+    "word": "駅",
+    "romaji": "eki",
+    "translation": ["station"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["at", "to", "location/direction particle"]
+  },
+  {
+    "word": "着いた",
+    "romaji": "tsuita",
+    "translation": ["arrived", "reached (past tense)"]
+  },
+  {
+    "word": "時",
+    "romaji": "toki",
+    "translation": ["time", "when"]
+  },
+  {
+    "word": "雨",
+    "romaji": "ame",
+    "translation": ["rain"]
+  },
+  {
+    "word": "が",
+    "romaji": "ga",
+    "translation": ["subject marker particle"]
+  },
+  {
+    "word": "強く",
+    "romaji": "tsuyoku",
+    "translation": ["strongly", "heavily", "hard"]
+  },
+  {
+    "word": "降っていました",
+    "romaji": "futteimashita",
+    "translation": ["was falling", "was raining (past continuous)"]
+  },
+  {
+    "word": "あきこ",
+    "romaji": "akiko",
+    "translation": ["Akiko (name)"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "傘",
+    "romaji": "kasa",
+    "translation": ["umbrella"]
+  },
+  {
+    "word": "を",
+    "romaji": "wo/o",
+    "translation": ["object marker particle"]
+  },
+  {
+    "word": "出そう",
+    "romaji": "dasou",
+    "translation": ["try to take out", "about to take out"]
+  },
+  {
+    "word": "と",
+    "romaji": "to",
+    "translation": ["quotation particle", "when"]
+  },
+  {
+    "word": "しました",
+    "romaji": "shimashita",
+    "translation": ["did (past tense)"]
+  },
+  {
+    "word": "が",
+    "romaji": "ga",
+    "translation": ["but", "however"]
+  },
+  {
+    "word": "傘",
+    "romaji": "kasa",
+    "translation": ["umbrella"]
+  },
+  {
+    "word": "が",
+    "romaji": "ga",
+    "translation": ["subject marker particle"]
+  },
+  {
+    "word": "ありませんでした",
+    "romaji": "arimasendeshita",
+    "translation": ["was not", "did not exist (past negative)"]
+  },
+  {
+    "word": "あっ",
+    "romaji": "a",
+    "translation": ["ah", "oh", "exclamation"]
+  },
+  {
+    "word": "電車",
+    "romaji": "densha",
+    "translation": ["train"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["in", "on", "location particle"]
+  },
+  {
+    "word": "忘れて",
+    "romaji": "wasurete",
+    "translation": ["forgot", "left behind (te-form)"]
+  },
+  {
+    "word": "しまいました",
+    "romaji": "shimaimashita",
+    "translation": ["did (regrettably)", "ended up doing (past tense)"]
+  },
+  {
+    "word": "あきこ",
+    "romaji": "akiko",
+    "translation": ["Akiko (name)"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "急いで",
+    "romaji": "isoide",
+    "translation": ["hurriedly", "in a hurry", "quickly"]
+  },
+  {
+    "word": "駅",
+    "romaji": "eki",
+    "translation": ["station"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "忘れ物",
+    "romaji": "wasuremono",
+    "translation": ["lost item", "forgotten thing", "lost and found"]
+  },
+  {
+    "word": "センター",
+    "romaji": "sentaa",
+    "translation": ["center"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["to", "direction particle"]
+  },
+  {
+    "word": "行きました",
+    "romaji": "ikimashita",
+    "translation": ["went", "went to (past tense)"]
+  },
+  {
+    "word": "窓口",
+    "romaji": "madoguchi",
+    "translation": ["window", "counter", "service window"]
+  },
+  {
+    "word": "で",
+    "romaji": "de",
+    "translation": ["at", "in", "location particle for action"]
+  },
+  {
+    "word": "駅員",
+    "romaji": "ekiin",
+    "translation": ["station employee", "station staff"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["to", "direction particle"]
+  },
+  {
+    "word": "話しかけました",
+    "romaji": "hanashikakemashita",
+    "translation": ["spoke to", "addressed", "talked to (past tense)"]
+  },
+  {
+    "word": "すみません",
+    "romaji": "sumimasen",
+    "translation": ["excuse me", "I'm sorry"]
+  },
+  {
+    "word": "電車",
+    "romaji": "densha",
+    "translation": ["train"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["in", "on", "location particle"]
+  },
+  {
+    "word": "傘",
+    "romaji": "kasa",
+    "translation": ["umbrella"]
+  },
+  {
+    "word": "を",
+    "romaji": "wo/o",
+    "translation": ["object marker particle"]
+  },
+  {
+    "word": "忘れて",
+    "romaji": "wasurete",
+    "translation": ["forgot", "left behind (te-form)"]
+  },
+  {
+    "word": "しまった",
+    "romaji": "shimatta",
+    "translation": ["did (regrettably)", "ended up doing (past tense, plain)"]
+  },
+  {
+    "word": "んです",
+    "romaji": "ndesu",
+    "translation": ["explanatory ending", "it is that"]
+  },
+  {
+    "word": "が",
+    "romaji": "ga",
+    "translation": ["but", "sentence-softening particle"]
+  },
+  {
+    "word": "いつ",
+    "romaji": "itsu",
+    "translation": ["when"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "電車",
+    "romaji": "densha",
+    "translation": ["train"]
+  },
+  {
+    "word": "です",
+    "romaji": "desu",
+    "translation": ["is", "to be (polite)"]
+  },
+  {
+    "word": "か",
+    "romaji": "ka",
+    "translation": ["question marker particle"]
+  },
+  {
+    "word": "と",
+    "romaji": "to",
+    "translation": ["quotation particle", "that"]
+  },
+  {
+    "word": "駅員",
+    "romaji": "ekiin",
+    "translation": ["station employee", "station staff"]
+  },
+  {
+    "word": "が",
+    "romaji": "ga",
+    "translation": ["subject marker particle"]
+  },
+  {
+    "word": "聞きました",
+    "romaji": "kikimashita",
+    "translation": ["asked", "inquired", "listened (past tense)"]
+  },
+  {
+    "word": "三十",
+    "romaji": "sanjuu",
+    "translation": ["thirty"]
+  },
+  {
+    "word": "分",
+    "romaji": "fun/pun",
+    "translation": ["minute", "minutes"]
+  },
+  {
+    "word": "前",
+    "romaji": "mae",
+    "translation": ["before", "ago", "previous"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "電車",
+    "romaji": "densha",
+    "translation": ["train"]
+  },
+  {
+    "word": "です",
+    "romaji": "desu",
+    "translation": ["is", "to be (polite)"]
+  },
+  {
+    "word": "青い",
+    "romaji": "aoi",
+    "translation": ["blue"]
+  },
+  {
+    "word": "傘",
+    "romaji": "kasa",
+    "translation": ["umbrella"]
+  },
+  {
+    "word": "でした",
+    "romaji": "deshita",
+    "translation": ["was", "to be (past tense, polite)"]
+  },
+  {
+    "word": "駅員",
+    "romaji": "ekiin",
+    "translation": ["station employee", "station staff"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "奥",
+    "romaji": "oku",
+    "translation": ["back", "inner part", "inside"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "部屋",
+    "romaji": "heya",
+    "translation": ["room"]
+  },
+  {
+    "word": "を",
+    "romaji": "wo/o",
+    "translation": ["object marker particle"]
+  },
+  {
+    "word": "探しに",
+    "romaji": "sagashi ni",
+    "translation": ["to search", "to look for (purpose)"]
+  },
+  {
+    "word": "行きました",
+    "romaji": "ikimashita",
+    "translation": ["went", "went to (past tense)"]
+  },
+  {
+    "word": "少し",
+    "romaji": "sukoshi",
+    "translation": ["a little", "a bit", "a while"]
+  },
+  {
+    "word": "待った",
+    "romaji": "matta",
+    "translation": ["waited (past tense, plain)"]
+  },
+  {
+    "word": "後",
+    "romaji": "ato",
+    "translation": ["after", "later"]
+  },
+  {
+    "word": "駅員",
+    "romaji": "ekiin",
+    "translation": ["station employee", "station staff"]
+  },
+  {
+    "word": "が",
+    "romaji": "ga",
+    "translation": ["subject marker particle"]
+  },
+  {
+    "word": "戻ってきました",
+    "romaji": "modottekimashita",
+    "translation": ["came back", "returned (past tense)"]
+  },
+  {
+    "word": "これ",
+    "romaji": "kore",
+    "translation": ["this"]
+  },
+  {
+    "word": "です",
+    "romaji": "desu",
+    "translation": ["is", "to be (polite)"]
+  },
+  {
+    "word": "か",
+    "romaji": "ka",
+    "translation": ["question marker particle"]
+  },
+  {
+    "word": "はい",
+    "romaji": "hai",
+    "translation": ["yes"]
+  },
+  {
+    "word": "それ",
+    "romaji": "sore",
+    "translation": ["that", "it"]
+  },
+  {
+    "word": "です",
+    "romaji": "desu",
+    "translation": ["is", "to be (polite)"]
+  },
+  {
+    "word": "ありがとうございます",
+    "romaji": "arigatou gozaimasu",
+    "translation": ["thank you (polite)"]
+  },
+  {
+    "word": "本当に",
+    "romaji": "hontou ni",
+    "translation": ["really", "truly"]
+  },
+  {
+    "word": "助かりました",
+    "romaji": "tasukarimashita",
+    "translation": ["was helped", "was saved", "it helped (past tense)"]
+  },
+  {
+    "word": "あきこ",
+    "romaji": "akiko",
+    "translation": ["Akiko (name)"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "深く",
+    "romaji": "fukaku",
+    "translation": ["deeply", "profoundly"]
+  },
+  {
+    "word": "お礼",
+    "romaji": "orei",
+    "translation": ["thanks", "gratitude"]
+  },
+  {
+    "word": "を",
+    "romaji": "wo/o",
+    "translation": ["object marker particle"]
+  },
+  {
+    "word": "言いました",
+    "romaji": "iimashita",
+    "translation": ["said", "expressed (past tense)"]
+  },
+  {
+    "word": "駅員",
+    "romaji": "ekiin",
+    "translation": ["station employee", "station staff"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "笑顔",
+    "romaji": "egao",
+    "translation": ["smile", "smiling face"]
+  },
+  {
+    "word": "で",
+    "romaji": "de",
+    "translation": ["with", "by means of", "method particle"]
+  },
+  {
+    "word": "言いました",
+    "romaji": "iimashita",
+    "translation": ["said", "spoke (past tense)"]
+  },
+  {
+    "word": "気をつけて",
+    "romaji": "ki wo tsukete",
+    "translation": ["be careful", "take care"]
+  },
+  {
+    "word": "ください",
+    "romaji": "kudasai",
+    "translation": ["please"]
+  },
+  {
+    "word": "ね",
+    "romaji": "ne",
+    "translation": ["sentence-ending particle", "okay?"]
+  },
+  {
+    "word": "はい",
+    "romaji": "hai",
+    "translation": ["yes"]
+  },
+  {
+    "word": "これから",
+    "romaji": "korekara",
+    "translation": ["from now on", "in the future"]
+  },
+  {
+    "word": "もっと",
+    "romaji": "motto",
+    "translation": ["more", "even more"]
+  },
+  {
+    "word": "気をつけます",
+    "romaji": "ki wo tsukemasu",
+    "translation": ["will be careful", "will pay attention"]
+  },
+  {
+    "word": "あきこ",
+    "romaji": "akiko",
+    "translation": ["Akiko (name)"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "傘",
+    "romaji": "kasa",
+    "translation": ["umbrella"]
+  },
+  {
+    "word": "を",
+    "romaji": "wo/o",
+    "translation": ["object marker particle"]
+  },
+  {
+    "word": "持って",
+    "romaji": "motte",
+    "translation": ["holding", "carrying (te-form)"]
+  },
+  {
+    "word": "安心して",
+    "romaji": "anshin shite",
+    "translation": ["relieved", "with peace of mind", "feeling relieved"]
+  },
+  {
+    "word": "家",
+    "romaji": "ie/uchi",
+    "translation": ["home", "house"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["to", "direction particle"]
+  },
+  {
+    "word": "帰りました",
+    "romaji": "kaerimashita",
+    "translation": ["returned", "went home (past tense)"]
+  },
+  {
+    "word": "外",
+    "romaji": "soto",
+    "translation": ["outside"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "まだ",
+    "romaji": "mada",
+    "translation": ["still", "yet"]
+  },
+  {
+    "word": "雨",
+    "romaji": "ame",
+    "translation": ["rain"]
+  },
+  {
+    "word": "が",
+    "romaji": "ga",
+    "translation": ["subject marker particle"]
+  },
+  {
+    "word": "降っていました",
+    "romaji": "futteimashita",
+    "translation": ["was falling", "was raining (past continuous)"]
+  },
+  {
+    "word": "が",
+    "romaji": "ga",
+    "translation": ["but", "however"]
+  },
+  {
+    "word": "あきこ",
+    "romaji": "akiko",
+    "translation": ["Akiko (name)"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "傘",
+    "romaji": "kasa",
+    "translation": ["umbrella"]
+  },
+  {
+    "word": "が",
+    "romaji": "ga",
+    "translation": ["subject marker particle"]
+  },
+  {
+    "word": "あって",
+    "romaji": "atte",
+    "translation": ["exists", "has", "there is (te-form)"]
+  },
+  {
+    "word": "良かった",
+    "romaji": "yokatta",
+    "translation": ["was good", "glad (past tense)"]
+  },
+  {
+    "word": "と",
+    "romaji": "to",
+    "translation": ["quotation particle", "that"]
+  },
+  {
+    "word": "思いました",
+    "romaji": "omoimashita",
+    "translation": ["thought", "felt (past tense)"]
+  }
+]
