@@ -93,13 +93,14 @@
   <script type="text/babel">
     const { useState, useEffect } = React;
     
-    const API_URL = 'http://localhost:3000/api';
+    const API_URL = window.location.hostname === 'localhost' 
+      ? 'http://localhost:3000/api' 
+      : '/api';
 
     const languageInfo = {
-      japanese: { name: 'Japanese', flag: '🇯🇵', gradient: 'from-red-500 to-pink-600', image: '/japan.png' },
-      french: { name: 'French', flag: '🇫🇷', gradient: 'from-blue-500 to-indigo-600', image: '/france.png' },
-      german: { name: 'German', flag: '🇩🇪', gradient: 'from-yellow-500 to-red-600', image: '/german.png' },
-    
+      japanese: { name: 'Japanese', flag: '🇯🇵', gradient: 'from-red-500 to-pink-600' },
+      french: { name: 'French', flag: '🇫🇷', gradient: 'from-blue-500 to-indigo-600' },
+      german: { name: 'German', flag: '🇩🇪', gradient: 'from-yellow-500 to-red-600' },
     };
 
     const HomeIcon = () => (
@@ -284,18 +285,7 @@
                         onClick={() => handleLanguageClick(key)}
                         className={`flag-card bg-white rounded-2xl p-8 shadow-xl hover:shadow-2xl transition-all transform hover:-translate-y-2 border-2 border-transparent hover:border-purple-400 overflow-hidden relative`}
                       >
-                        {info.image ? (
-                          <div className="flag-wave mb-6 relative h-32 flex items-center justify-center">
-                            <img 
-                              src={info.image} 
-                              alt={`${info.name} flag`}
-                              className="h-full w-auto object-contain filter drop-shadow-2xl"
-                              style={{ maxHeight: '128px' }}
-                            />
-                          </div>
-                        ) : (
-                          <div className="flag-wave text-8xl mb-6 filter drop-shadow-lg">{info.flag}</div>
-                        )}
+                        <div className="flag-wave text-8xl mb-6 filter drop-shadow-lg">{info.flag}</div>
                         <h3 className={`text-2xl font-bold bg-gradient-to-r ${info.gradient} bg-clip-text text-transparent`}>
                           {info.name}
                         </h3>
@@ -642,11 +632,11 @@
                     </p>
                     <div className="flex gap-4 pt-4">
                       <div className="flex-1 bg-gradient-to-br from-purple-50 to-blue-50 rounded-xl p-6">
-                        <h3 className="font-bold text-purple-700 mb-2">Interactive Learning</h3>
+                        <h3 className="font-bold text-purple-700 mb-2">🎯 Interactive Learning</h3>
                         <p className="text-gray-600 text-sm">Click any word for instant translations</p>
                       </div>
                       <div className="flex-1 bg-gradient-to-br from-blue-50 to-purple-50 rounded-xl p-6">
-                        <h3 className="font-bold text-blue-700 mb-2">Leveled Content</h3>
+                        <h3 className="font-bold text-blue-700 mb-2">📚 Leveled Content</h3>
                         <p className="text-gray-600 text-sm">Stories for every proficiency level</p>
                       </div>
                     </div>
