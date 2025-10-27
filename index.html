@@ -278,14 +278,25 @@
                   </h2>
                   <p className="text-gray-600 mb-12 text-lg">Start your learning journey today</p>
                   
-                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
                     {Object.entries(languageInfo).map(([key, info]) => (
                       <button
                         key={key}
                         onClick={() => handleLanguageClick(key)}
                         className={`flag-card bg-white rounded-2xl p-8 shadow-xl hover:shadow-2xl transition-all transform hover:-translate-y-2 border-2 border-transparent hover:border-purple-400 overflow-hidden relative`}
                       >
-                        <div className="flag-wave text-8xl mb-6 filter drop-shadow-lg">{info.flag}</div>
+                        {info.image ? (
+                          <div className="flag-wave mb-6 relative h-32 flex items-center justify-center">
+                            <img 
+                              src={info.image} 
+                              alt={`${info.name} flag`}
+                              className="h-full w-auto object-contain filter drop-shadow-2xl"
+                              style={{ maxHeight: '128px' }}
+                            />
+                          </div>
+                        ) : (
+                          <div className="flag-wave text-8xl mb-6 filter drop-shadow-lg">{info.flag}</div>
+                        )}
                         <h3 className={`text-2xl font-bold bg-gradient-to-r ${info.gradient} bg-clip-text text-transparent`}>
                           {info.name}
                         </h3>
@@ -653,5 +664,6 @@
   </script>
 </body>
 </html>
+
 
 
