@@ -1,0 +1,662 @@
+[
+  {
+    "word": "Heute",
+    "translation": ["today"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "ist",
+    "translation": ["is"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Max",
+    "translation": ["Max"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "nervös",
+    "translation": ["nervous"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Er",
+    "translation": ["he"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "ist",
+    "translation": ["is"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "neu",
+    "translation": ["new"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Es",
+    "translation": ["it"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "ist",
+    "translation": ["is"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "sein",
+    "translation": ["his"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "erster",
+    "translation": ["first"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Schultag",
+    "translation": ["school day"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "in",
+    "translation": ["in"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "Deutschland",
+    "translation": ["Germany"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Max",
+    "translation": ["Max"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "geht",
+    "translation": ["goes", "walks"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "in",
+    "translation": ["in", "into"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "das",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Klassenzimmer",
+    "translation": ["classroom"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Die",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Lehrerin",
+    "translation": ["teacher", "female teacher"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "heißt",
+    "translation": ["is called", "is named"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Frau",
+    "translation": ["Mrs.", "Ms.", "woman"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Schmidt",
+    "translation": ["Schmidt"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Sie",
+    "translation": ["she", "they", "you (formal)"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "ist",
+    "translation": ["is"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "sehr",
+    "translation": ["very"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "freundlich",
+    "translation": ["friendly", "kind"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Frau",
+    "translation": ["Mrs.", "Ms.", "woman"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Schmidt",
+    "translation": ["Schmidt"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Guten",
+    "translation": ["good"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Morgen",
+    "translation": ["morning"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Wie",
+    "translation": ["how", "what"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "heißt",
+    "translation": ["are called", "are named"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "du",
+    "translation": ["you"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "Max",
+    "translation": ["Max"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Ich",
+    "translation": ["I"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "heiße",
+    "translation": ["am called", "am named"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Max",
+    "translation": ["Max"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Frau",
+    "translation": ["Mrs.", "Ms.", "woman"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Schmidt",
+    "translation": ["Schmidt"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Willkommen",
+    "translation": ["welcome"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "in",
+    "translation": ["in"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "unserer",
+    "translation": ["our"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "Klasse",
+    "translation": ["class"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Max",
+    "translation": ["Max"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Max",
+    "translation": ["Max"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "steht",
+    "translation": ["stands"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "vor",
+    "translation": ["in front of", "before"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "der",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Klasse",
+    "translation": ["class"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Er",
+    "translation": ["he"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "ist",
+    "translation": ["is"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "ein",
+    "translation": ["a", "one"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "bisschen",
+    "translation": ["bit", "little"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "nervös",
+    "translation": ["nervous"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Frau",
+    "translation": ["Mrs.", "Ms.", "woman"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Schmidt",
+    "translation": ["Schmidt"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Woher",
+    "translation": ["where from", "from where"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "kommst",
+    "translation": ["come", "are from"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "du",
+    "translation": ["you"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "Max",
+    "translation": ["Max"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Max",
+    "translation": ["Max"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Ich",
+    "translation": ["I"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "komme",
+    "translation": ["come", "am from"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "aus",
+    "translation": ["from", "out of"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "Spanien",
+    "translation": ["Spain"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Frau",
+    "translation": ["Mrs.", "Ms.", "woman"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Schmidt",
+    "translation": ["Schmidt"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Wie",
+    "translation": ["how"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "alt",
+    "translation": ["old"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "bist",
+    "translation": ["are"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "du",
+    "translation": ["you"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "Max",
+    "translation": ["Max"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Ich",
+    "translation": ["I"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "bin",
+    "translation": ["am"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "vierzehn",
+    "translation": ["fourteen"],
+    "part_of_speech": "numeral"
+  },
+  {
+    "word": "Jahre",
+    "translation": ["years"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "alt",
+    "translation": ["old"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Max",
+    "translation": ["Max"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "erzählt",
+    "translation": ["tells", "narrates"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "über",
+    "translation": ["about", "over"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "seine",
+    "translation": ["his"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "Hobbys",
+    "translation": ["hobbies"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Er",
+    "translation": ["he"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "mag",
+    "translation": ["likes"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Fußball",
+    "translation": ["football", "soccer"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "sehr",
+    "translation": ["very", "much"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "Er",
+    "translation": ["he"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "spielt",
+    "translation": ["plays"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "jeden",
+    "translation": ["every", "each"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Samstag",
+    "translation": ["Saturday"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Er",
+    "translation": ["he"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "mag",
+    "translation": ["likes"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "auch",
+    "translation": ["also", "too"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "Musik",
+    "translation": ["music"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Er",
+    "translation": ["he"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "hört",
+    "translation": ["hears", "listens to"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "gern",
+    "translation": ["gladly", "with pleasure"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "Rockmusik",
+    "translation": ["rock music"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Klasse",
+    "translation": ["class"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Willkommen",
+    "translation": ["welcome"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Max",
+    "translation": ["Max"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Max",
+    "translation": ["Max"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Danke",
+    "translation": ["thank you", "thanks"],
+    "part_of_speech": "interjection"
+  },
+  {
+    "word": "Ich",
+    "translation": ["I"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "freue",
+    "translation": ["am happy", "am glad"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "mich",
+    "translation": ["myself"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "Frau",
+    "translation": ["Mrs.", "Ms.", "woman"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Schmidt",
+    "translation": ["Schmidt"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Wir",
+    "translation": ["we"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "freuen",
+    "translation": ["are happy", "are glad"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "uns",
+    "translation": ["ourselves", "us"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "auch",
+    "translation": ["also", "too"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "Max",
+    "translation": ["Max"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Die",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Schüler",
+    "translation": ["students", "pupils"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "sind",
+    "translation": ["are"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "nett",
+    "translation": ["nice", "kind"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Max",
+    "translation": ["Max"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "lächelt",
+    "translation": ["smiles"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Er",
+    "translation": ["he"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "ist",
+    "translation": ["is"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "jetzt",
+    "translation": ["now"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "nicht",
+    "translation": ["not"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "mehr",
+    "translation": ["more", "anymore"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "nervös",
+    "translation": ["nervous"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Der",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "erste",
+    "translation": ["first"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Tag",
+    "translation": ["day"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "ist",
+    "translation": ["is"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "gut",
+    "translation": ["good"],
+    "part_of_speech": "adjective"
+  }
+]

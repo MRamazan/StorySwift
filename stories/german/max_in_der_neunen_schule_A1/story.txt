@@ -1,0 +1,21 @@
+Heute ist Max nervös. Er ist neu. Es ist sein erster Schultag in Deutschland.
+Max geht in das Klassenzimmer. Die Lehrerin heißt Frau Schmidt. Sie ist sehr freundlich.
+[DIALOG]
+Frau Schmidt: Guten Morgen! Wie heißt du?
+Max: Ich heiße Max.
+Frau Schmidt: Willkommen in unserer Klasse, Max!
+[/DIALOG]
+Max steht vor der Klasse. Er ist ein bisschen nervös.
+[DIALOG]
+Frau Schmidt: Woher kommst du, Max?
+Max: Ich komme aus Spanien.
+Frau Schmidt: Wie alt bist du?
+Max: Ich bin vierzehn Jahre alt.
+[/DIALOG]
+Max erzählt über seine Hobbys. Er mag Fußball sehr. Er spielt jeden Samstag. Er mag auch Musik. Er hört gern Rockmusik.
+[DIALOG]
+Klasse: Willkommen, Max!
+Max: Danke! Ich freue mich!
+Frau Schmidt: Wir freuen uns auch, Max!
+[/DIALOG]
+Die Schüler sind nett. Max lächelt. Er ist jetzt nicht mehr nervös. Der erste Tag ist gut!

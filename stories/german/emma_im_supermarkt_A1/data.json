@@ -1,0 +1,667 @@
+[
+  {
+    "word": "Emma",
+    "translation": ["Emma"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "ist",
+    "translation": ["is"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "neu",
+    "translation": ["new"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "in",
+    "translation": ["in"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "Deutschland",
+    "translation": ["Germany"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Heute",
+    "translation": ["today"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "geht",
+    "translation": ["goes", "walks"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "sie",
+    "translation": ["she", "they"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "zum",
+    "translation": ["to the"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "Supermarkt",
+    "translation": ["supermarket"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Sie",
+    "translation": ["she", "they", "you (formal)"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "braucht",
+    "translation": ["needs"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Essen",
+    "translation": ["food", "meal"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "für",
+    "translation": ["for"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "die",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Woche",
+    "translation": ["week"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Emma",
+    "translation": ["Emma"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "nimmt",
+    "translation": ["takes"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "einen",
+    "translation": ["a", "one"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Einkaufswagen",
+    "translation": ["shopping cart"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Zuerst",
+    "translation": ["first", "at first"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "kauft",
+    "translation": ["buys"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "sie",
+    "translation": ["she", "they"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "Obst",
+    "translation": ["fruit"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Sie",
+    "translation": ["she", "they", "you (formal)"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "nimmt",
+    "translation": ["takes"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "drei",
+    "translation": ["three"],
+    "part_of_speech": "numeral"
+  },
+  {
+    "word": "Äpfel",
+    "translation": ["apples"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "und",
+    "translation": ["and"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "zwei",
+    "translation": ["two"],
+    "part_of_speech": "numeral"
+  },
+  {
+    "word": "Bananen",
+    "translation": ["bananas"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Die",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Äpfel",
+    "translation": ["apples"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "kosten",
+    "translation": ["cost"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "1,50",
+    "translation": ["1.50"],
+    "part_of_speech": "numeral"
+  },
+  {
+    "word": "Euro",
+    "translation": ["euro", "euros"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Die",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Bananen",
+    "translation": ["bananas"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "kosten",
+    "translation": ["cost"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "0,80",
+    "translation": ["0.80"],
+    "part_of_speech": "numeral"
+  },
+  {
+    "word": "Euro",
+    "translation": ["euro", "euros"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Dann",
+    "translation": ["then"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "geht",
+    "translation": ["goes", "walks"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Emma",
+    "translation": ["Emma"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "zu",
+    "translation": ["to", "at"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "den",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Gemüsen",
+    "translation": ["vegetables"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Sie",
+    "translation": ["she", "they", "you (formal)"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "kauft",
+    "translation": ["buys"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Tomaten",
+    "translation": ["tomatoes"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "und",
+    "translation": ["and"],
+    "part_of_speech": "conjunction"
+  },
+  {
+    "word": "Karotten",
+    "translation": ["carrots"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Die",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Tomaten",
+    "translation": ["tomatoes"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "kosten",
+    "translation": ["cost"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "2,30",
+    "translation": ["2.30"],
+    "part_of_speech": "numeral"
+  },
+  {
+    "word": "Euro",
+    "translation": ["euro", "euros"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Die",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Karotten",
+    "translation": ["carrots"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "kosten",
+    "translation": ["cost"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "1,20",
+    "translation": ["1.20"],
+    "part_of_speech": "numeral"
+  },
+  {
+    "word": "Euro",
+    "translation": ["euro", "euros"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Emma",
+    "translation": ["Emma"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Wo",
+    "translation": ["where"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "ist",
+    "translation": ["is"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "die",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Milch",
+    "translation": ["milk"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "bitte",
+    "translation": ["please"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "Verkäufer",
+    "translation": ["seller", "salesperson", "vendor"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Da",
+    "translation": ["there", "here"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "links",
+    "translation": ["left", "on the left"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "neben",
+    "translation": ["next to", "beside"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "dem",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Brot",
+    "translation": ["bread"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Emma",
+    "translation": ["Emma"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Danke",
+    "translation": ["thank you", "thanks"],
+    "part_of_speech": "interjection"
+  },
+  {
+    "word": "schön",
+    "translation": ["nice", "beautiful", "very much"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Emma",
+    "translation": ["Emma"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "findet",
+    "translation": ["finds"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "die",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Milch",
+    "translation": ["milk"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Eine",
+    "translation": ["a", "one"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Flasche",
+    "translation": ["bottle"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Milch",
+    "translation": ["milk"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "kostet",
+    "translation": ["costs"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "0,95",
+    "translation": ["0.95"],
+    "part_of_speech": "numeral"
+  },
+  {
+    "word": "Euro",
+    "translation": ["euro", "euros"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Sie",
+    "translation": ["she", "they", "you (formal)"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "nimmt",
+    "translation": ["takes"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "auch",
+    "translation": ["also", "too"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "ein",
+    "translation": ["a", "one"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Brot",
+    "translation": ["bread"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Das",
+    "translation": ["the", "that"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Brot",
+    "translation": ["bread"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "kostet",
+    "translation": ["costs"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "1,80",
+    "translation": ["1.80"],
+    "part_of_speech": "numeral"
+  },
+  {
+    "word": "Euro",
+    "translation": ["euro", "euros"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Jetzt",
+    "translation": ["now"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "geht",
+    "translation": ["goes", "walks"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "Emma",
+    "translation": ["Emma"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "zur",
+    "translation": ["to the"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "Kasse",
+    "translation": ["cash register", "checkout", "cashier"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Verkäufer",
+    "translation": ["seller", "salesperson", "vendor"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Guten",
+    "translation": ["good"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Tag",
+    "translation": ["day"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Emma",
+    "translation": ["Emma"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Hallo",
+    "translation": ["hello"],
+    "part_of_speech": "interjection"
+  },
+  {
+    "word": "Das",
+    "translation": ["that", "this"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "ist",
+    "translation": ["is"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "alles",
+    "translation": ["everything", "all"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "Verkäufer",
+    "translation": ["seller", "salesperson", "vendor"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Das",
+    "translation": ["that", "this"],
+    "part_of_speech": "pronoun"
+  },
+  {
+    "word": "macht",
+    "translation": ["makes", "is", "comes to"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "8,55",
+    "translation": ["8.55"],
+    "part_of_speech": "numeral"
+  },
+  {
+    "word": "Euro",
+    "translation": ["euro", "euros"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "bitte",
+    "translation": ["please"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "Emma",
+    "translation": ["Emma"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Hier",
+    "translation": ["here"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "bitte",
+    "translation": ["please"],
+    "part_of_speech": "adverb"
+  },
+  {
+    "word": "Verkäufer",
+    "translation": ["seller", "salesperson", "vendor"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Danke",
+    "translation": ["thank you", "thanks"],
+    "part_of_speech": "interjection"
+  },
+  {
+    "word": "Auf",
+    "translation": ["on", "at"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "Wiedersehen",
+    "translation": ["goodbye", "seeing again"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Emma",
+    "translation": ["Emma"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Auf",
+    "translation": ["on", "at"],
+    "part_of_speech": "preposition"
+  },
+  {
+    "word": "Wiedersehen",
+    "translation": ["goodbye", "seeing again"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "Emma",
+    "translation": ["Emma"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "ist",
+    "translation": ["is"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "glücklich",
+    "translation": ["happy"],
+    "part_of_speech": "adjective"
+  },
+  {
+    "word": "Der",
+    "translation": ["the"],
+    "part_of_speech": "article"
+  },
+  {
+    "word": "Einkauf",
+    "translation": ["shopping", "purchase"],
+    "part_of_speech": "noun"
+  },
+  {
+    "word": "ist",
+    "translation": ["is"],
+    "part_of_speech": "verb"
+  },
+  {
+    "word": "gut",
+    "translation": ["good"],
+    "part_of_speech": "adjective"
+  }
+]

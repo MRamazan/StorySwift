@@ -1,0 +1,665 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>StorySwift - Language Learning</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body { 
+      margin: 0; 
+      font-family: 'Inter', system-ui, -apple-system, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    }
+    
+    .gradient-bg {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    }
+    
+    .gradient-card {
+      background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%);
+      backdrop-filter: blur(10px);
+    }
+    
+    .flag-card {
+      position: relative;
+      overflow: hidden;
+    }
+    
+    .flag-card::before {
+      content: '';
+      position: absolute;
+      top: -50%;
+      right: -50%;
+      width: 200%;
+      height: 200%;
+      background: linear-gradient(45deg, transparent, rgba(255,255,255,0.1), transparent);
+      transform: rotate(45deg);
+      transition: all 0.6s;
+    }
+    
+    .flag-card:hover::before {
+      top: 100%;
+      right: 100%;
+    }
+    
+    .story-card {
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    
+    .story-card:hover {
+      transform: translateY(-8px) scale(1.02);
+    }
+    
+    .nav-button {
+      transition: all 0.3s ease;
+      position: relative;
+    }
+    
+    .nav-button::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 4px;
+      height: 0;
+      background: #667eea;
+      border-radius: 0 4px 4px 0;
+      transition: height 0.3s ease;
+    }
+    
+    .nav-button.active::before {
+      height: 70%;
+    }
+    
+    .tooltip-popup {
+      animation: tooltipFade 0.2s ease-in;
+    }
+    
+    @keyframes tooltipFade {
+      from { opacity: 0; transform: translate(-50%, -10px); }
+      to { opacity: 1; transform: translate(-50%, 0); }
+    }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+
+  <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+  <script type="text/babel">
+    const { useState, useEffect } = React;
+    
+    const API_URL = 'http://localhost:3000/api';
+
+    const languageInfo = {
+      japanese: { name: 'Japanese', flag: '🇯🇵', gradient: 'from-red-500 to-pink-600', image: '/japan.png' },
+      french: { name: 'French', flag: '🇫🇷', gradient: 'from-blue-500 to-indigo-600', image: '/france.png' },
+      german: { name: 'German', flag: '🇩🇪', gradient: 'from-yellow-500 to-red-600', image: '/german.png' },
+    
+    };
+
+    const HomeIcon = () => (
+      <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
+      </svg>
+    );
+
+    const FileTextIcon = () => (
+      <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+      </svg>
+    );
+
+    const InfoIcon = () => (
+      <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+      </svg>
+    );
+
+    const BookOpenIcon = () => (
+      <svg className="w-7 h-7" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+      </svg>
+    );
+
+    function App() {
+      const [activeSection, setActiveSection] = useState('main');
+      const [selectedLanguage, setSelectedLanguage] = useState(null);
+      const [stories, setStories] = useState([]);
+      const [selectedStory, setSelectedStory] = useState(null);
+      const [storyData, setStoryData] = useState(null);
+      const [hoveredWord, setHoveredWord] = useState(null);
+
+      useEffect(() => {
+        if (selectedLanguage) {
+          fetch(`${API_URL}/stories/${selectedLanguage}`)
+            .then(res => res.json())
+            .then(data => setStories(data))
+            .catch(err => console.error(err));
+        }
+      }, [selectedLanguage]);
+
+      useEffect(() => {
+        if (selectedStory) {
+          fetch(`${API_URL}/story/${selectedLanguage}/${selectedStory}`)
+            .then(res => res.json())
+            .then(data => setStoryData(data))
+            .catch(err => console.error(err));
+        }
+      }, [selectedStory, selectedLanguage]);
+
+      const handleLanguageClick = (lang) => {
+        setSelectedLanguage(lang);
+        setActiveSection('stories');
+        setSelectedStory(null);
+        setStoryData(null);
+      };
+
+      const handleStoryClick = (storyId) => {
+        setSelectedStory(storyId);
+        setActiveSection('reader');
+      };
+
+      const handleBackToStories = () => {
+        setSelectedStory(null);
+        setStoryData(null);
+        setActiveSection('stories');
+      };
+
+      const handleBackToMain = () => {
+        setSelectedLanguage(null);
+        setSelectedStory(null);
+        setStoryData(null);
+        setStories([]);
+        setActiveSection('main');
+      };
+
+      const renderTooltip = (word) => {
+        let content = null;
+        
+        if (selectedLanguage === 'japanese') {
+          content = (
+            <>
+              <div className="text-sm font-semibold text-gray-800">{word.romaji}</div>
+              <div className="text-xs text-gray-600 mt-1">{word.translation.join(', ')}</div>
+            </>
+          );
+        } else if (selectedLanguage === 'german') {
+          content = (
+            <>
+              <div className="text-sm font-semibold text-gray-800">{word.translation.join(', ')}</div>
+              <div className="text-xs text-gray-500 mt-1">{word.part_of_speech}</div>
+            </>
+          );
+        } else if (selectedLanguage === 'french') {
+          content = (
+            <>
+              <div className="text-sm font-semibold text-gray-800">{word.meaning_en}</div>
+              <div className="text-xs text-gray-500 mt-1">{word.pos} • {word.ipa}</div>
+            </>
+          );
+        } else if (selectedLanguage === 'spanish') {
+          content = (
+            <>
+              <div className="text-sm font-semibold text-gray-800">{word.meaning_en}</div>
+              <div className="text-xs text-gray-500 mt-1">{word.pos}</div>
+            </>
+          );
+        }
+        
+        return (
+          <div className="absolute z-50 bg-white border-2 border-purple-400 rounded-xl shadow-2xl p-3 -mt-24 left-1/2 transform -translate-x-1/2 min-w-max pointer-events-none tooltip-popup">
+            {content}
+          </div>
+        );
+      };
+
+      return (
+        <div className="flex h-screen">
+          <nav className="w-64 bg-gray-900 text-white p-6 shadow-2xl">
+            <div className="mb-8">
+              <h1 className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent flex items-center gap-2">
+                <BookOpenIcon />
+                StorySwift
+              </h1>
+              <p className="text-xs text-gray-400 mt-1">Learn through stories</p>
+            </div>
+            
+            <div className="space-y-2">
+              <button
+                onClick={handleBackToMain}
+                className={`nav-button w-full flex items-center gap-3 px-4 py-3 rounded-lg transition-all ${
+                  activeSection === 'main' 
+                    ? 'active bg-gradient-to-r from-purple-600 to-blue-600 text-white shadow-lg' 
+                    : 'text-gray-300 hover:bg-gray-800'
+                }`}
+              >
+                <HomeIcon />
+                <span>Main</span>
+              </button>
+              
+              <button
+                onClick={() => setActiveSection('words')}
+                className={`nav-button w-full flex items-center gap-3 px-4 py-3 rounded-lg transition-all ${
+                  activeSection === 'words' 
+                    ? 'active bg-gradient-to-r from-purple-600 to-blue-600 text-white shadow-lg' 
+                    : 'text-gray-300 hover:bg-gray-800'
+                }`}
+              >
+                <FileTextIcon />
+                <span>Words</span>
+              </button>
+              
+              <button
+                onClick={() => setActiveSection('about')}
+                className={`nav-button w-full flex items-center gap-3 px-4 py-3 rounded-lg transition-all ${
+                  activeSection === 'about' 
+                    ? 'active bg-gradient-to-r from-purple-600 to-blue-600 text-white shadow-lg' 
+                    : 'text-gray-300 hover:bg-gray-800'
+                }`}
+              >
+                <InfoIcon />
+                <span>About</span>
+              </button>
+            </div>
+          </nav>
+
+          <main className="flex-1 overflow-y-auto bg-gradient-to-br from-gray-50 to-purple-50">
+            {activeSection === 'main' && !selectedLanguage && (
+              <div className="p-12">
+                <div className="max-w-6xl mx-auto">
+                  <h2 className="text-5xl font-bold bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent mb-4">
+                    Choose Your Language
+                  </h2>
+                  <p className="text-gray-600 mb-12 text-lg">Start your learning journey today</p>
+                  
+                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+                    {Object.entries(languageInfo).map(([key, info]) => (
+                      <button
+                        key={key}
+                        onClick={() => handleLanguageClick(key)}
+                        className={`flag-card bg-white rounded-2xl p-8 shadow-xl hover:shadow-2xl transition-all transform hover:-translate-y-2 border-2 border-transparent hover:border-purple-400 overflow-hidden relative`}
+                      >
+                        {info.image ? (
+                          <div className="flag-wave mb-6 relative h-32 flex items-center justify-center">
+                            <img 
+                              src={info.image} 
+                              alt={`${info.name} flag`}
+                              className="h-full w-auto object-contain filter drop-shadow-2xl"
+                              style={{ maxHeight: '128px' }}
+                            />
+                          </div>
+                        ) : (
+                          <div className="flag-wave text-8xl mb-6 filter drop-shadow-lg">{info.flag}</div>
+                        )}
+                        <h3 className={`text-2xl font-bold bg-gradient-to-r ${info.gradient} bg-clip-text text-transparent`}>
+                          {info.name}
+                        </h3>
+                        <div className={`h-1 w-16 mx-auto mt-4 rounded-full bg-gradient-to-r ${info.gradient}`}></div>
+                      </button>
+                    ))}
+                  </div>
+                </div>
+              </div>
+            )}
+
+            {activeSection === 'stories' && selectedLanguage && !selectedStory && (
+              <div className="p-12">
+                <div className="max-w-6xl mx-auto">
+                  <div className="flex items-center gap-4 mb-8">
+                    <button
+                      onClick={handleBackToMain}
+                      className="text-purple-600 hover:text-purple-700 font-semibold flex items-center gap-2 bg-white px-4 py-2 rounded-lg shadow hover:shadow-lg transition-all"
+                    >
+                      ← Back
+                    </button>
+                    <div className="flex items-center gap-3">
+                      <span className="text-5xl">{languageInfo[selectedLanguage]?.flag}</span>
+                      <h2 className="text-4xl font-bold bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent">
+                        {languageInfo[selectedLanguage]?.name} Stories
+                      </h2>
+                    </div>
+                  </div>
+                  
+                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                    {stories.map(story => (
+                      <button
+                        key={story.id}
+                        onClick={() => handleStoryClick(story.id)}
+                        className="story-card bg-white rounded-xl p-6 shadow-lg hover:shadow-2xl text-left relative border-2 border-transparent hover:border-purple-400"
+                      >
+                        <span className={`absolute top-4 right-4 bg-gradient-to-r ${languageInfo[selectedLanguage].gradient} text-white text-xs font-bold px-3 py-1 rounded-full shadow-lg`}>
+                          {story.level}
+                        </span>
+                        <h3 className="text-lg font-semibold text-gray-800 pr-16 hover:text-purple-600 transition-colors">
+                          {story.title}
+                        </h3>
+                        <div className={`h-1 w-12 mt-3 rounded-full bg-gradient-to-r ${languageInfo[selectedLanguage].gradient}`}></div>
+                      </button>
+                    ))}
+                  </div>
+                </div>
+              </div>
+            )}
+
+            {activeSection === 'reader' && storyData && (
+              <div className="p-12">
+                <div className="max-w-5xl mx-auto">
+                  <div className="flex items-center gap-4 mb-8">
+                    <button
+                      onClick={handleBackToStories}
+                      className="text-purple-600 hover:text-purple-700 font-semibold flex items-center gap-2 bg-white px-4 py-2 rounded-lg shadow hover:shadow-lg transition-all"
+                    >
+                      ← Back to Stories
+                    </button>
+                    <h2 className="text-4xl font-bold text-gray-800">{storyData.title}</h2>
+                    <span className={`bg-gradient-to-r ${languageInfo[selectedLanguage].gradient} text-white text-sm font-bold px-4 py-2 rounded-full shadow-lg`}>
+                      {storyData.level}
+                    </span>
+                  </div>
+                  
+                  <div className="bg-white rounded-2xl p-10 shadow-xl border-2 border-purple-100">
+                    <div className="text-xl leading-relaxed space-y-6 text-gray-800">
+                      {storyData.text ? (
+                        (() => {
+                          // Special handling for Japanese (no spaces between words)
+                          if (selectedLanguage === 'japanese') {
+                            const text = storyData.text;
+                            
+                            // Split text by paragraphs
+                            const paragraphs = text.split('\n').filter(line => line.trim());
+                            let globalWordIndex = 0; // Global word index across all paragraphs
+                            
+                            return paragraphs.map((paragraph, pIdx) => {
+                              // Check if this paragraph is a dialog
+                              const isDialog = paragraph.includes('[DIALOG]') || paragraph.includes('[DIALOGUE]');
+                              
+                              if (isDialog) {
+                                const cleanParagraph = paragraph.replace(/\[DIALOG(?:UE)?\]|\[\/DIALOG(?:UE)?\]/g, '').trim();
+                                const segments = [];
+                                let remaining = cleanParagraph;
+                                
+                                while (remaining.length > 0 && globalWordIndex < storyData.words.length) {
+                                  const wordData = storyData.words[globalWordIndex];
+                                  const wordText = wordData.word;
+                                  
+                                  if (remaining.startsWith(wordText)) {
+                                    segments.push({ type: 'word', text: wordText, data: wordData });
+                                    remaining = remaining.slice(wordText.length);
+                                    globalWordIndex++;
+                                  } else {
+                                    segments.push({ type: 'text', text: remaining[0] });
+                                    remaining = remaining.slice(1);
+                                  }
+                                }
+                                
+                                if (remaining.length > 0) {
+                                  segments.push({ type: 'text', text: remaining });
+                                }
+                                
+                                return (
+                                  <div key={`dialog-${pIdx}`} className="my-4 pl-6 border-l-4 border-purple-400 bg-purple-50 py-3 rounded-r-lg">
+                                    <p className="leading-loose italic text-purple-900">
+                                      {segments.map((segment, sIdx) => {
+                                        if (segment.type === 'word') {
+                                          return (
+                                            <span
+                                              key={`${pIdx}-${sIdx}`}
+                                              className="relative inline-block cursor-pointer hover:bg-purple-200 px-0.5 rounded transition-all hover:text-purple-800"
+                                              onMouseEnter={() => setHoveredWord(`jp-dialog-${pIdx}-${sIdx}`)}
+                                              onMouseLeave={() => setHoveredWord(null)}
+                                            >
+                                              {segment.text}
+                                              {hoveredWord === `jp-dialog-${pIdx}-${sIdx}` && renderTooltip(segment.data)}
+                                            </span>
+                                          );
+                                        }
+                                        return <span key={`${pIdx}-${sIdx}`}>{segment.text}</span>;
+                                      })}
+                                    </p>
+                                  </div>
+                                );
+                              }
+                              
+                              // Regular paragraph
+                              const segments = [];
+                              let remaining = paragraph;
+                              
+                              while (remaining.length > 0 && globalWordIndex < storyData.words.length) {
+                                const wordData = storyData.words[globalWordIndex];
+                                const wordText = wordData.word;
+                                
+                                if (remaining.startsWith(wordText)) {
+                                  segments.push({ type: 'word', text: wordText, data: wordData });
+                                  remaining = remaining.slice(wordText.length);
+                                  globalWordIndex++;
+                                } else {
+                                  segments.push({ type: 'text', text: remaining[0] });
+                                  remaining = remaining.slice(1);
+                                }
+                              }
+                              
+                              if (remaining.length > 0) {
+                                segments.push({ type: 'text', text: remaining });
+                              }
+                              
+                              return (
+                                <p key={pIdx} className="leading-loose">
+                                  {segments.map((segment, sIdx) => {
+                                    if (segment.type === 'word') {
+                                      return (
+                                        <span
+                                          key={`${pIdx}-${sIdx}`}
+                                          className="relative inline-block cursor-pointer hover:bg-purple-100 px-0.5 rounded transition-all hover:text-purple-700"
+                                          onMouseEnter={() => setHoveredWord(`jp-${pIdx}-${sIdx}`)}
+                                          onMouseLeave={() => setHoveredWord(null)}
+                                        >
+                                          {segment.text}
+                                          {hoveredWord === `jp-${pIdx}-${sIdx}` && renderTooltip(segment.data)}
+                                        </span>
+                                      );
+                                    }
+                                    return <span key={`${pIdx}-${sIdx}`}>{segment.text}</span>;
+                                  })}
+                                </p>
+                              );
+                            });
+                          }
+                          
+                          // For other languages (with spaces and dialog support)
+                          const text = storyData.text;
+                          const parts = [];
+                          let currentIndex = 0;
+                          
+                          // Find all dialog blocks (both [DIALOG] and [DIALOGUE])
+                          const dialogRegex = /\[DIALOG(?:UE)?\]([\s\S]*?)\[\/DIALOG(?:UE)?\]/g;
+                          let match;
+                          
+                          while ((match = dialogRegex.exec(text)) !== null) {
+                            // Add text before dialog
+                            if (match.index > currentIndex) {
+                              const beforeText = text.substring(currentIndex, match.index);
+                              parts.push({ type: 'normal', content: beforeText });
+                            }
+                            
+                            // Add dialog
+                            parts.push({ type: 'dialog', content: match[1].trim() });
+                            currentIndex = match.index + match[0].length;
+                          }
+                          
+                          // Add remaining text
+                          if (currentIndex < text.length) {
+                            const remainingText = text.substring(currentIndex);
+                            parts.push({ type: 'normal', content: remainingText });
+                          }
+                          
+                          let globalDataIndex = 0;
+                          
+                          return parts.map((part, partIdx) => {
+                            if (part.type === 'dialog') {
+                              // Handle dialog block
+                              const lines = part.content.split('\n').filter(line => line.trim());
+                              
+                              return (
+                                <div key={`dialog-${partIdx}`} className="my-4 pl-6 border-l-4 border-purple-400 bg-purple-50 py-3 rounded-r-lg space-y-2">
+                                  {lines.map((line, lineIdx) => {
+                                    const words = line.split(/\s+/);
+                                    
+                                    return (
+                                      <p key={lineIdx} className="leading-loose italic text-purple-900">
+                                        {words.map((textWord, wIdx) => {
+                                          const cleanWord = textWord.replace(/[.,!?;:"]/g, '');
+                                          let matchedData = null;
+                                          
+                                          for (let i = globalDataIndex; i < storyData.words.length; i++) {
+                                            const dataWord = storyData.words[i].word;
+                                            if (cleanWord.toLowerCase() === dataWord.toLowerCase() || 
+                                                textWord.toLowerCase() === dataWord.toLowerCase()) {
+                                              matchedData = storyData.words[i];
+                                              globalDataIndex = i + 1;
+                                              break;
+                                            }
+                                          }
+                                          
+                                          if (matchedData) {
+                                            return (
+                                              <span
+                                                key={`${lineIdx}-${wIdx}`}
+                                                className="relative inline-block cursor-pointer hover:bg-purple-200 px-1 rounded transition-all hover:text-purple-800"
+                                                onMouseEnter={() => setHoveredWord(`dialog-${partIdx}-${lineIdx}-${wIdx}`)}
+                                                onMouseLeave={() => setHoveredWord(null)}
+                                              >
+                                                {textWord}
+                                                {hoveredWord === `dialog-${partIdx}-${lineIdx}-${wIdx}` && renderTooltip(matchedData)}
+                                              </span>
+                                            );
+                                          }
+                                          
+                                          return <span key={`${lineIdx}-${wIdx}`}>{textWord} </span>;
+                                        })}
+                                      </p>
+                                    );
+                                  })}
+                                </div>
+                              );
+                            } else {
+                              // Handle normal text
+                              const paragraphs = part.content.split('\n').filter(line => line.trim());
+                              
+                              return paragraphs.map((paragraph, pIdx) => {
+                                const words = paragraph.split(/\s+/);
+                                
+                                return (
+                                  <p key={`normal-${partIdx}-${pIdx}`} className="leading-loose">
+                                    {words.map((textWord, wIdx) => {
+                                      const cleanWord = textWord.replace(/[.,!?;:]/g, '');
+                                      let matchedData = null;
+                                      
+                                      for (let i = globalDataIndex; i < storyData.words.length; i++) {
+                                        const dataWord = storyData.words[i].word;
+                                        if (cleanWord.toLowerCase() === dataWord.toLowerCase() || 
+                                            textWord.toLowerCase() === dataWord.toLowerCase()) {
+                                          matchedData = storyData.words[i];
+                                          globalDataIndex = i + 1;
+                                          break;
+                                        }
+                                      }
+                                      
+                                      if (matchedData) {
+                                        return (
+                                          <span
+                                            key={`${pIdx}-${wIdx}`}
+                                            className="relative inline-block cursor-pointer hover:bg-purple-100 px-1 rounded transition-all hover:text-purple-700"
+                                            onMouseEnter={() => setHoveredWord(`normal-${partIdx}-${pIdx}-${wIdx}`)}
+                                            onMouseLeave={() => setHoveredWord(null)}
+                                          >
+                                            {textWord}
+                                            {hoveredWord === `normal-${partIdx}-${pIdx}-${wIdx}` && renderTooltip(matchedData)}
+                                          </span>
+                                        );
+                                      }
+                                      
+                                      return <span key={`${pIdx}-${wIdx}`}>{textWord} </span>;
+                                    })}
+                                  </p>
+                                );
+                              });
+                            }
+                          });
+                        })()
+                      ) : (
+                        <div className="leading-loose">
+                          {storyData.words.map((word, index) => (
+                            <span
+                              key={index}
+                              className="relative inline-block cursor-pointer hover:bg-purple-100 px-1 rounded transition-all hover:text-purple-700"
+                              onMouseEnter={() => setHoveredWord(index)}
+                              onMouseLeave={() => setHoveredWord(null)}
+                            >
+                              {word.word}
+                              {hoveredWord === index && renderTooltip(word)}
+                            </span>
+                          ))}
+                        </div>
+                      )}
+                    </div>
+                  </div>
+                </div>
+              </div>
+            )}
+
+            {activeSection === 'words' && (
+              <div className="p-12">
+                <div className="max-w-4xl mx-auto">
+                  <h2 className="text-5xl font-bold bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent mb-4">
+                    Saved Words
+                  </h2>
+                  <div className="bg-white rounded-2xl p-10 shadow-xl">
+                    <p className="text-gray-600 text-lg">Your saved vocabulary will appear here.</p>
+                  </div>
+                </div>
+              </div>
+            )}
+
+            {activeSection === 'about' && (
+              <div className="p-12">
+                <div className="max-w-4xl mx-auto">
+                  <h2 className="text-5xl font-bold bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent mb-6">
+                    About StorySwift
+                  </h2>
+                  <div className="bg-white rounded-2xl p-10 shadow-xl space-y-6">
+                    <p className="text-gray-700 text-lg leading-relaxed">
+                      StorySwift is a language learning platform that helps you learn through engaging stories.
+                      Hover over any word to see its translation and grammatical information instantly.
+                    </p>
+                    <p className="text-gray-700 text-lg leading-relaxed">
+                      Choose from multiple languages and difficulty levels to match your learning journey.
+                      Start reading, start learning!
+                    </p>
+                    <div className="flex gap-4 pt-4">
+                      <div className="flex-1 bg-gradient-to-br from-purple-50 to-blue-50 rounded-xl p-6">
+                        <h3 className="font-bold text-purple-700 mb-2">Interactive Learning</h3>
+                        <p className="text-gray-600 text-sm">Click any word for instant translations</p>
+                      </div>
+                      <div className="flex-1 bg-gradient-to-br from-blue-50 to-purple-50 rounded-xl p-6">
+                        <h3 className="font-bold text-blue-700 mb-2">Leveled Content</h3>
+                        <p className="text-gray-600 text-sm">Stories for every proficiency level</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            )}
+          </main>
+        </div>
+      );
+    }
+
+    ReactDOM.render(<App />, document.getElementById('root'));
+  </script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+Céline se réveilla tôt ce mardi matin. Aujourd'hui, elle avait un entretien d'embauche dans une grande entreprise de marketing. Elle avait passé toute la semaine précédente à se préparer. Elle avait relu son CV plusieurs fois et s'était renseignée sur l'entreprise.
+Céline était arrivée vingt minutes en avance. Elle portait un tailleur bleu marine qui lui donnait l'air professionnel. Dans la salle d'attente, son cœur battait vite. Elle était très nerveuse.
+[DIALOGUE]La réceptionniste: "Bonjour mademoiselle. Vous avez rendez-vous avec qui?"[/DIALOGUE]
+[DIALOGUE]Céline: "Bonjour. J'ai un entretien avec Monsieur Rousseau à dix heures."[/DIALOGUE]
+[DIALOGUE]La réceptionniste: "Très bien. Asseyez-vous, il va vous recevoir dans quelques minutes."[/DIALOGUE]
+Quinze minutes plus tard, un homme en costume gris ouvrit la porte.
+[DIALOGUE]Monsieur Rousseau: "Mademoiselle Céline Martin? Je suis Monsieur Rousseau. Enchânté."[/DIALOGUE]
+[DIALOGUE]Céline: "Enchantée, monsieur."[/DIALOGUE]
+Ils entrèrent dans son bureau. Au début, Céline tremblait un peu.
+[DIALOGUE]Monsieur Rousseau: "Parlez-moi de votre expérience professionnelle."[/DIALOGUE]
+[DIALOGUE]Céline: "Eh bien, j'ai travaillé pendant trois ans dans une agence de communication où j'étais responsable des réseaux sociaux."[/DIALOGUE]
+[DIALOGUE]Monsieur Rousseau: "Intéressant. Quelles sont vos compétences principales?"[/DIALOGUE]
+[DIALOGUE]Céline: "Je maîtrise bien les outils de marketing digital et j'ai de bonnes capacités en gestion de projet."[/DIALOGUE]
+Au fur et à mesure que l'entretien progressait, Céline se sentait de plus en plus à l'aise. Elle répondait avec assurance et souriait naturellement.
+[DIALOGUE]Monsieur Rousseau: "Pourquoi aimeriez-vous travailler dans notre entreprise?"[/DIALOGUE]
+[DIALOGUE]Céline: "Votre entreprise est innovante et j'aimerais contribuer à vos projets créatifs. Je pense que mes compétences correspondraient bien à ce poste."[/DIALOGUE]
+L'entretien dura quarante-cinq minutes. Quand Céline partit, elle se sentait confiante mais incertaine du résultat.
+Deux jours plus tard, son téléphone sonna.
+[DIALOGUE]Monsieur Rousseau: "Bonjour Céline. Je vous appelle pour vous annoncer une bonne nouvelle. Nous aimerions vous offrir le poste!"[/DIALOGUE]
+[DIALOGUE]Céline: "Oh! Vraiment? C'est merveilleux! Je vous remercie infiniment!"[/DIALOGUE]
+Céline était folle de joie. Tout son travail de préparation avait payé. Sa nouvelle carrière allait commencer!

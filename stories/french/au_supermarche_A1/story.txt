@@ -1,0 +1,10 @@
+Paul va au supermarché. Il a une liste. Il cherche du pain, du lait et des pommes.
+Paul entre dans le magasin. Il prend un panier. Il trouve le pain. Il trouve le lait. Mais où sont les pommes?
+[DIALOGUE]Paul: "Excusez-moi, madame."[/DIALOGUE]
+[DIALOGUE]La vendeuse: "Oui, monsieur?"[/DIALOGUE]
+[DIALOGUE]Paul: "Où sont les pommes, s'il vous plaît?"[/DIALOGUE]
+[DIALOGUE]La vendeuse: "Les pommes sont là-bas, monsieur."[/DIALOGUE]
+La vendeuse montre les pommes. Paul va voir les pommes. Il prend trois pommes rouges.
+Maintenant, Paul a tout. Il va à la caisse. Il paie ses courses.
+[DIALOGUE]Paul: "Merci, madame. Au revoir!"[/DIALOGUE]
+Paul sort du supermarché. Il est content.

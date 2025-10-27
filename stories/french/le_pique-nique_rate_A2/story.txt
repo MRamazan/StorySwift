@@ -1,0 +1,15 @@
+Aujourd'hui, il fait beau et le soleil brille. Emma et Thomas sont contents parce qu'ils vont faire un pique-nique au parc avec leur maman.
+[DIALOGUE]Emma: "Maman, qu'est-ce qu'on va préparer?"[/DIALOGUE]
+[DIALOGUE]Maman: "Nous allons faire des sandwiches et prendre des fruits."[/DIALOGUE]
+Les enfants ont aidé leur maman dans la cuisine. Ils ont préparé des sandwiches au jambon et au fromage. Ils ont aussi mis des pommes, des bananes et des fraises dans le panier.
+[DIALOGUE]Thomas: "C'est prêt! On y va?"[/DIALOGUE]
+La famille arrive au parc. Ils cherchent un bon endroit sous un grand arbre. Mais soudain, le ciel devient gris.
+[DIALOGUE]Emma: "Oh non! Regarde le ciel!"[/DIALOGUE]
+Il commence à pleuvoir. La pluie tombe fort et il y a du vent.
+[DIALOGUE]Thomas: "Vite! Courons à la voiture!"[/DIALOGUE]
+Ils ont couru très vite jusqu'à la voiture. Ils sont tous mouillés et ils rient.
+[DIALOGUE]Maman: "On va faire le pique-nique à la maison!"[/DIALOGUE]
+[DIALOGUE]Emma: "Bonne idée! On va manger dans le salon!"[/DIALOGUE]
+À la maison, ils ont étalé une couverture sur le sol. Ils ont mangé leurs sandwiches en regardant la pluie par la fenêtre.
+[DIALOGUE]Thomas: "C'est le meilleur pique-nique raté!"[/DIALOGUE]
+Tout le monde rit. C'est une belle journée quand même.

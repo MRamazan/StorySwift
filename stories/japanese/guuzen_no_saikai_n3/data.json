@@ -1,0 +1,1227 @@
+[
+  {
+    "word": "ひろし",
+    "romaji": "hiroshi",
+    "translation": ["Hiroshi (name)"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "三十",
+    "romaji": "sanjuu",
+    "translation": ["thirty"]
+  },
+  {
+    "word": "歳",
+    "romaji": "sai",
+    "translation": ["years old", "age counter"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "銀行員",
+    "romaji": "ginkouin",
+    "translation": ["bank employee", "banker"]
+  },
+  {
+    "word": "です",
+    "romaji": "desu",
+    "translation": ["is", "to be (polite)"]
+  },
+  {
+    "word": "ある",
+    "romaji": "aru",
+    "translation": ["a certain", "one"]
+  },
+  {
+    "word": "土曜日",
+    "romaji": "doyoubi",
+    "translation": ["Saturday"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "午後",
+    "romaji": "gogo",
+    "translation": ["afternoon", "p.m."]
+  },
+  {
+    "word": "いつも",
+    "romaji": "itsumo",
+    "translation": ["always", "usual"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "カフェ",
+    "romaji": "kafe",
+    "translation": ["cafe", "coffee shop"]
+  },
+  {
+    "word": "で",
+    "romaji": "de",
+    "translation": ["at", "in", "location particle for action"]
+  },
+  {
+    "word": "本",
+    "romaji": "hon",
+    "translation": ["book"]
+  },
+  {
+    "word": "を",
+    "romaji": "wo/o",
+    "translation": ["object marker particle"]
+  },
+  {
+    "word": "読んでいました",
+    "romaji": "yondeimashita",
+    "translation": ["was reading", "had been reading (past continuous)"]
+  },
+  {
+    "word": "ひろし",
+    "romaji": "hiroshi",
+    "translation": ["Hiroshi (name)"]
+  },
+  {
+    "word": "久しぶり",
+    "romaji": "hisashiburi",
+    "translation": ["long time no see", "it's been a while"]
+  },
+  {
+    "word": "振り向く",
+    "romaji": "furimuku",
+    "translation": ["turn around", "look back"]
+  },
+  {
+    "word": "と",
+    "romaji": "to",
+    "translation": ["when", "if", "conditional particle"]
+  },
+  {
+    "word": "見覚え",
+    "romaji": "mioboe",
+    "translation": ["recognition", "recollection", "familiarity"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "ある",
+    "romaji": "aru",
+    "translation": ["there is", "have"]
+  },
+  {
+    "word": "顔",
+    "romaji": "kao",
+    "translation": ["face"]
+  },
+  {
+    "word": "が",
+    "romaji": "ga",
+    "translation": ["subject marker particle"]
+  },
+  {
+    "word": "ありました",
+    "romaji": "arimashita",
+    "translation": ["was", "existed (past tense)"]
+  },
+  {
+    "word": "まさと",
+    "romaji": "masato",
+    "translation": ["Masato (name)"]
+  },
+  {
+    "word": "本当に",
+    "romaji": "hontou ni",
+    "translation": ["really", "truly"]
+  },
+  {
+    "word": "久しぶり",
+    "romaji": "hisashiburi",
+    "translation": ["long time no see", "it's been a while"]
+  },
+  {
+    "word": "だ",
+    "romaji": "da",
+    "translation": ["is", "to be (plain)"]
+  },
+  {
+    "word": "ね",
+    "romaji": "ne",
+    "translation": ["sentence-ending particle", "isn't it?"]
+  },
+  {
+    "word": "十",
+    "romaji": "juu",
+    "translation": ["ten"]
+  },
+  {
+    "word": "年",
+    "romaji": "nen",
+    "translation": ["year"]
+  },
+  {
+    "word": "ぶり",
+    "romaji": "buri",
+    "translation": ["after (period of time)", "for the first time in"]
+  },
+  {
+    "word": "くらい",
+    "romaji": "kurai",
+    "translation": ["about", "approximately"]
+  },
+  {
+    "word": "二人",
+    "romaji": "futari",
+    "translation": ["two people"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "子供",
+    "romaji": "kodomo",
+    "translation": ["child", "children"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "頃",
+    "romaji": "koro",
+    "translation": ["time", "period", "when"]
+  },
+  {
+    "word": "から",
+    "romaji": "kara",
+    "translation": ["from", "since"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "親友",
+    "romaji": "shinyuu",
+    "translation": ["best friend", "close friend"]
+  },
+  {
+    "word": "でした",
+    "romaji": "deshita",
+    "translation": ["was", "were (past tense, polite)"]
+  },
+  {
+    "word": "高校",
+    "romaji": "koukou",
+    "translation": ["high school"]
+  },
+  {
+    "word": "卒業",
+    "romaji": "sotsugyou",
+    "translation": ["graduation"]
+  },
+  {
+    "word": "後",
+    "romaji": "go/ato",
+    "translation": ["after"]
+  },
+  {
+    "word": "違う",
+    "romaji": "chigau",
+    "translation": ["different"]
+  },
+  {
+    "word": "道",
+    "romaji": "michi",
+    "translation": ["path", "road", "way"]
+  },
+  {
+    "word": "を",
+    "romaji": "wo/o",
+    "translation": ["object marker particle"]
+  },
+  {
+    "word": "選んで",
+    "romaji": "erande",
+    "translation": ["chose", "choosing (te-form)"]
+  },
+  {
+    "word": "しまい",
+    "romaji": "shimai",
+    "translation": ["ended up", "regrettably did"]
+  },
+  {
+    "word": "連絡",
+    "romaji": "renraku",
+    "translation": ["contact", "communication"]
+  },
+  {
+    "word": "が",
+    "romaji": "ga",
+    "translation": ["subject marker particle"]
+  },
+  {
+    "word": "途絶えていました",
+    "romaji": "todaeteimashita",
+    "translation": ["had been cut off", "had ceased (past continuous)"]
+  },
+  {
+    "word": "座って",
+    "romaji": "suwatte",
+    "translation": ["sit", "sit down (te-form)"]
+  },
+  {
+    "word": "よ",
+    "romaji": "yo",
+    "translation": ["sentence-ending particle (emphasis)", "you know"]
+  },
+  {
+    "word": "今",
+    "romaji": "ima",
+    "translation": ["now", "currently"]
+  },
+  {
+    "word": "何",
+    "romaji": "nani",
+    "translation": ["what"]
+  },
+  {
+    "word": "してる",
+    "romaji": "shiteru",
+    "translation": ["doing", "are doing (casual continuous)"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["nominalizer", "particle"]
+  },
+  {
+    "word": "と",
+    "romaji": "to",
+    "translation": ["quotation particle", "that"]
+  },
+  {
+    "word": "ひろし",
+    "romaji": "hiroshi",
+    "translation": ["Hiroshi (name)"]
+  },
+  {
+    "word": "が",
+    "romaji": "ga",
+    "translation": ["subject marker particle"]
+  },
+  {
+    "word": "聞きました",
+    "romaji": "kikimashita",
+    "translation": ["asked", "inquired (past tense)"]
+  },
+  {
+    "word": "実は",
+    "romaji": "jitsu wa",
+    "translation": ["actually", "in fact", "to tell the truth"]
+  },
+  {
+    "word": "レストラン",
+    "romaji": "resutoran",
+    "translation": ["restaurant"]
+  },
+  {
+    "word": "で",
+    "romaji": "de",
+    "translation": ["at", "in", "location particle"]
+  },
+  {
+    "word": "シェフ",
+    "romaji": "shefu",
+    "translation": ["chef"]
+  },
+  {
+    "word": "を",
+    "romaji": "wo/o",
+    "translation": ["object marker particle"]
+  },
+  {
+    "word": "している",
+    "romaji": "shiteiru",
+    "translation": ["doing", "working as"]
+  },
+  {
+    "word": "んだ",
+    "romaji": "nda",
+    "translation": ["explanatory ending (casual)", "it is that"]
+  },
+  {
+    "word": "えっ",
+    "romaji": "e",
+    "translation": ["what?", "huh?", "exclamation of surprise"]
+  },
+  {
+    "word": "料理人",
+    "romaji": "ryourinin",
+    "translation": ["cook", "chef"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["to", "into", "result particle"]
+  },
+  {
+    "word": "なった",
+    "romaji": "natta",
+    "translation": ["became", "became (past tense, plain)"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["nominalizer", "particle"]
+  },
+  {
+    "word": "確か",
+    "romaji": "tashika",
+    "translation": ["if I remember correctly", "I think", "certain"]
+  },
+  {
+    "word": "親",
+    "romaji": "oya",
+    "translation": ["parent", "parents"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "反対していた",
+    "romaji": "hantaishiteita",
+    "translation": ["was opposing", "were against (past continuous, plain)"]
+  },
+  {
+    "word": "よね",
+    "romaji": "yone",
+    "translation": ["right?", "isn't it? (seeking confirmation)"]
+  },
+  {
+    "word": "うん",
+    "romaji": "un",
+    "translation": ["yeah", "uh-huh (casual yes)"]
+  },
+  {
+    "word": "親",
+    "romaji": "oya",
+    "translation": ["parent", "parents"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "大学",
+    "romaji": "daigaku",
+    "translation": ["university", "college"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["to", "direction particle"]
+  },
+  {
+    "word": "行って",
+    "romaji": "itte",
+    "translation": ["go", "going (te-form)"]
+  },
+  {
+    "word": "ほしかった",
+    "romaji": "hoshikatta",
+    "translation": ["wanted (someone to)", "wished (past tense)"]
+  },
+  {
+    "word": "んだ",
+    "romaji": "nda",
+    "translation": ["explanatory ending (casual)", "it is that"]
+  },
+  {
+    "word": "けど",
+    "romaji": "kedo",
+    "translation": ["but", "however"]
+  },
+  {
+    "word": "料理",
+    "romaji": "ryouri",
+    "translation": ["cooking", "cuisine", "food"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "道",
+    "romaji": "michi",
+    "translation": ["path", "way"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["to", "direction particle"]
+  },
+  {
+    "word": "進む",
+    "romaji": "susumu",
+    "translation": ["advance", "proceed", "go forward"]
+  },
+  {
+    "word": "こと",
+    "romaji": "koto",
+    "translation": ["thing", "nominalizer"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["particle"]
+  },
+  {
+    "word": "した",
+    "romaji": "shita",
+    "translation": ["did", "decided (past tense, plain)"]
+  },
+  {
+    "word": "んだ",
+    "romaji": "nda",
+    "translation": ["explanatory ending (casual)", "it is that"]
+  },
+  {
+    "word": "最初",
+    "romaji": "saisho",
+    "translation": ["first", "beginning", "at first"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "大変",
+    "romaji": "taihen",
+    "translation": ["difficult", "hard", "tough"]
+  },
+  {
+    "word": "だった",
+    "romaji": "datta",
+    "translation": ["was", "to be (past tense, plain)"]
+  },
+  {
+    "word": "けど",
+    "romaji": "kedo",
+    "translation": ["but", "however"]
+  },
+  {
+    "word": "今",
+    "romaji": "ima",
+    "translation": ["now", "currently"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "自分",
+    "romaji": "jibun",
+    "translation": ["self", "oneself", "one's own"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "店",
+    "romaji": "mise",
+    "translation": ["shop", "store", "restaurant"]
+  },
+  {
+    "word": "を",
+    "romaji": "wo/o",
+    "translation": ["object marker particle"]
+  },
+  {
+    "word": "持つ",
+    "romaji": "motsu",
+    "translation": ["have", "hold", "own"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["nominalizer", "particle"]
+  },
+  {
+    "word": "が",
+    "romaji": "ga",
+    "translation": ["subject marker particle"]
+  },
+  {
+    "word": "夢",
+    "romaji": "yume",
+    "translation": ["dream"]
+  },
+  {
+    "word": "なんだ",
+    "romaji": "nanda",
+    "translation": ["it is that", "explanatory (casual)"]
+  },
+  {
+    "word": "まさと",
+    "romaji": "masato",
+    "translation": ["Masato (name)"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "目",
+    "romaji": "me",
+    "translation": ["eye", "eyes"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "輝いていました",
+    "romaji": "kagayaiteimashita",
+    "translation": ["was shining", "was sparkling (past continuous)"]
+  },
+  {
+    "word": "ひろし",
+    "romaji": "hiroshi",
+    "translation": ["Hiroshi (name)"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "少し",
+    "romaji": "sukoshi",
+    "translation": ["a little", "slightly"]
+  },
+  {
+    "word": "複雑な",
+    "romaji": "fukuzatsuna",
+    "translation": ["complex", "complicated", "mixed"]
+  },
+  {
+    "word": "気持ち",
+    "romaji": "kimochi",
+    "translation": ["feeling", "mood"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["to", "result particle"]
+  },
+  {
+    "word": "なりました",
+    "romaji": "narimashita",
+    "translation": ["became", "felt (past tense)"]
+  },
+  {
+    "word": "すごい",
+    "romaji": "sugoi",
+    "translation": ["amazing", "great", "incredible"]
+  },
+  {
+    "word": "な",
+    "romaji": "na",
+    "translation": ["sentence-ending particle (casual)", "emphasis"]
+  },
+  {
+    "word": "俺",
+    "romaji": "ore",
+    "translation": ["I", "me (masculine, casual)"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "安定",
+    "romaji": "antei",
+    "translation": ["stability"]
+  },
+  {
+    "word": "を",
+    "romaji": "wo/o",
+    "translation": ["object marker particle"]
+  },
+  {
+    "word": "選んで",
+    "romaji": "erande",
+    "translation": ["chose", "choosing (te-form)"]
+  },
+  {
+    "word": "銀行",
+    "romaji": "ginkou",
+    "translation": ["bank"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["at", "to", "direction particle"]
+  },
+  {
+    "word": "就職した",
+    "romaji": "shuushokushita",
+    "translation": ["got a job", "found employment (past tense, plain)"]
+  },
+  {
+    "word": "けど",
+    "romaji": "kedo",
+    "translation": ["but", "however"]
+  },
+  {
+    "word": "最近",
+    "romaji": "saikin",
+    "translation": ["recently", "lately"]
+  },
+  {
+    "word": "これ",
+    "romaji": "kore",
+    "translation": ["this"]
+  },
+  {
+    "word": "で",
+    "romaji": "de",
+    "translation": ["with", "by", "particle"]
+  },
+  {
+    "word": "よかった",
+    "romaji": "yokatta",
+    "translation": ["was good", "was right (past tense)"]
+  },
+  {
+    "word": "のかな",
+    "romaji": "nokana",
+    "translation": ["I wonder if", "questioning (casual)"]
+  },
+  {
+    "word": "って",
+    "romaji": "tte",
+    "translation": ["quotation particle (casual)", "that"]
+  },
+  {
+    "word": "考える",
+    "romaji": "kangaeru",
+    "translation": ["think", "consider"]
+  },
+  {
+    "word": "こと",
+    "romaji": "koto",
+    "translation": ["thing", "times", "nominalizer"]
+  },
+  {
+    "word": "が",
+    "romaji": "ga",
+    "translation": ["subject marker particle"]
+  },
+  {
+    "word": "ある",
+    "romaji": "aru",
+    "translation": ["exist", "there are"]
+  },
+  {
+    "word": "んだ",
+    "romaji": "nda",
+    "translation": ["explanatory ending (casual)", "it is that"]
+  },
+  {
+    "word": "ひろし",
+    "romaji": "hiroshi",
+    "translation": ["Hiroshi (name)"]
+  },
+  {
+    "word": "らしい",
+    "romaji": "rashii",
+    "translation": ["like", "typical of", "characteristic of"]
+  },
+  {
+    "word": "選択",
+    "romaji": "sentaku",
+    "translation": ["choice", "selection"]
+  },
+  {
+    "word": "だ",
+    "romaji": "da",
+    "translation": ["is", "to be (plain)"]
+  },
+  {
+    "word": "と",
+    "romaji": "to",
+    "translation": ["quotation particle", "that"]
+  },
+  {
+    "word": "思う",
+    "romaji": "omou",
+    "translation": ["think", "feel"]
+  },
+  {
+    "word": "よ",
+    "romaji": "yo",
+    "translation": ["sentence-ending particle (emphasis)", "you know"]
+  },
+  {
+    "word": "でも",
+    "romaji": "demo",
+    "translation": ["but", "however"]
+  },
+  {
+    "word": "幸せ",
+    "romaji": "shiawase",
+    "translation": ["happiness", "happy"]
+  },
+  {
+    "word": "って",
+    "romaji": "tte",
+    "translation": ["quotation particle (casual)", "as for"]
+  },
+  {
+    "word": "人",
+    "romaji": "hito",
+    "translation": ["person", "people"]
+  },
+  {
+    "word": "それぞれ",
+    "romaji": "sorezore",
+    "translation": ["each", "respectively", "different for each person"]
+  },
+  {
+    "word": "だ",
+    "romaji": "da",
+    "translation": ["is", "to be (plain)"]
+  },
+  {
+    "word": "よね",
+    "romaji": "yone",
+    "translation": ["right?", "isn't it? (seeking confirmation)"]
+  },
+  {
+    "word": "そう",
+    "romaji": "sou",
+    "translation": ["so", "that's right"]
+  },
+  {
+    "word": "だ",
+    "romaji": "da",
+    "translation": ["is", "to be (plain)"]
+  },
+  {
+    "word": "な",
+    "romaji": "na",
+    "translation": ["sentence-ending particle (casual)", "emphasis"]
+  },
+  {
+    "word": "まさと",
+    "romaji": "masato",
+    "translation": ["Masato (name)"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "好きな",
+    "romaji": "sukina",
+    "translation": ["favorite", "liked", "what one likes"]
+  },
+  {
+    "word": "こと",
+    "romaji": "koto",
+    "translation": ["thing", "things", "nominalizer"]
+  },
+  {
+    "word": "を",
+    "romaji": "wo/o",
+    "translation": ["object marker particle"]
+  },
+  {
+    "word": "仕事",
+    "romaji": "shigoto",
+    "translation": ["work", "job"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["to", "into", "result particle"]
+  },
+  {
+    "word": "して",
+    "romaji": "shite",
+    "translation": ["doing", "making (te-form)"]
+  },
+  {
+    "word": "本当に",
+    "romaji": "hontou ni",
+    "translation": ["really", "truly"]
+  },
+  {
+    "word": "幸せ",
+    "romaji": "shiawase",
+    "translation": ["happy"]
+  },
+  {
+    "word": "そう",
+    "romaji": "sou",
+    "translation": ["seems", "appears"]
+  },
+  {
+    "word": "だ",
+    "romaji": "da",
+    "translation": ["is", "to be (plain)"]
+  },
+  {
+    "word": "二人",
+    "romaji": "futari",
+    "translation": ["two people"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "夕方",
+    "romaji": "yuugata",
+    "translation": ["evening", "dusk"]
+  },
+  {
+    "word": "まで",
+    "romaji": "made",
+    "translation": ["until", "till"]
+  },
+  {
+    "word": "話し込みました",
+    "romaji": "hanashikomimashita",
+    "translation": ["talked at length", "had a long conversation (past tense)"]
+  },
+  {
+    "word": "別れ際",
+    "romaji": "wakaregiwa",
+    "translation": ["time of parting", "when parting", "farewell moment"]
+  },
+  {
+    "word": "まさと",
+    "romaji": "masato",
+    "translation": ["Masato (name)"]
+  },
+  {
+    "word": "が",
+    "romaji": "ga",
+    "translation": ["subject marker particle"]
+  },
+  {
+    "word": "言いました",
+    "romaji": "iimashita",
+    "translation": ["said", "spoke (past tense)"]
+  },
+  {
+    "word": "今度",
+    "romaji": "kondo",
+    "translation": ["next time", "this time"]
+  },
+  {
+    "word": "俺",
+    "romaji": "ore",
+    "translation": ["I", "me (masculine, casual)"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "店",
+    "romaji": "mise",
+    "translation": ["shop", "store", "restaurant"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["to", "direction particle"]
+  },
+  {
+    "word": "来て",
+    "romaji": "kite",
+    "translation": ["come", "coming (te-form)"]
+  },
+  {
+    "word": "よ",
+    "romaji": "yo",
+    "translation": ["sentence-ending particle (emphasis)", "you know"]
+  },
+  {
+    "word": "料理",
+    "romaji": "ryouri",
+    "translation": ["cooking", "food", "dish"]
+  },
+  {
+    "word": "を",
+    "romaji": "wo/o",
+    "translation": ["object marker particle"]
+  },
+  {
+    "word": "作って",
+    "romaji": "tsukutte",
+    "translation": ["make", "cook (te-form)"]
+  },
+  {
+    "word": "あげる",
+    "romaji": "ageru",
+    "translation": ["give", "do for (someone)"]
+  },
+  {
+    "word": "から",
+    "romaji": "kara",
+    "translation": ["because", "so"]
+  },
+  {
+    "word": "絶対",
+    "romaji": "zettai",
+    "translation": ["definitely", "absolutely", "for sure"]
+  },
+  {
+    "word": "行く",
+    "romaji": "iku",
+    "translation": ["go", "will go"]
+  },
+  {
+    "word": "よ",
+    "romaji": "yo",
+    "translation": ["sentence-ending particle (emphasis)", "you know"]
+  },
+  {
+    "word": "また",
+    "romaji": "mata",
+    "translation": ["again", "also"]
+  },
+  {
+    "word": "連絡する",
+    "romaji": "renrakusuru",
+    "translation": ["contact", "get in touch"]
+  },
+  {
+    "word": "ね",
+    "romaji": "ne",
+    "translation": ["sentence-ending particle", "okay?"]
+  },
+  {
+    "word": "家",
+    "romaji": "ie/uchi",
+    "translation": ["home", "house"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["to", "direction particle"]
+  },
+  {
+    "word": "帰る",
+    "romaji": "kaeru",
+    "translation": ["return", "go home"]
+  },
+  {
+    "word": "道",
+    "romaji": "michi",
+    "translation": ["road", "way", "path"]
+  },
+  {
+    "word": "で",
+    "romaji": "de",
+    "translation": ["on", "at", "location particle"]
+  },
+  {
+    "word": "ひろし",
+    "romaji": "hiroshi",
+    "translation": ["Hiroshi (name)"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "考えました",
+    "romaji": "kangaemashita",
+    "translation": ["thought", "considered (past tense)"]
+  },
+  {
+    "word": "安定",
+    "romaji": "antei",
+    "translation": ["stability"]
+  },
+  {
+    "word": "も",
+    "romaji": "mo",
+    "translation": ["also", "too"]
+  },
+  {
+    "word": "大切",
+    "romaji": "taisetsu",
+    "translation": ["important", "precious"]
+  },
+  {
+    "word": "だ",
+    "romaji": "da",
+    "translation": ["is", "to be (plain)"]
+  },
+  {
+    "word": "けど",
+    "romaji": "kedo",
+    "translation": ["but", "however"]
+  },
+  {
+    "word": "情熱",
+    "romaji": "jounetsu",
+    "translation": ["passion", "enthusiasm"]
+  },
+  {
+    "word": "を",
+    "romaji": "wo/o",
+    "translation": ["object marker particle"]
+  },
+  {
+    "word": "持って",
+    "romaji": "motte",
+    "translation": ["having", "holding (te-form)"]
+  },
+  {
+    "word": "生きる",
+    "romaji": "ikiru",
+    "translation": ["live", "be alive"]
+  },
+  {
+    "word": "こと",
+    "romaji": "koto",
+    "translation": ["thing", "nominalizer"]
+  },
+  {
+    "word": "も",
+    "romaji": "mo",
+    "translation": ["also", "too"]
+  },
+  {
+    "word": "大事",
+    "romaji": "daiji",
+    "translation": ["important", "valuable"]
+  },
+  {
+    "word": "なんだ",
+    "romaji": "nanda",
+    "translation": ["it is that", "explanatory (casual)"]
+  },
+  {
+    "word": "な",
+    "romaji": "na",
+    "translation": ["sentence-ending particle (casual)", "emphasis"]
+  },
+  {
+    "word": "この",
+    "romaji": "kono",
+    "translation": ["this"]
+  },
+  {
+    "word": "再会",
+    "romaji": "saikai",
+    "translation": ["reunion", "meeting again"]
+  },
+  {
+    "word": "が",
+    "romaji": "ga",
+    "translation": ["subject marker particle"]
+  },
+  {
+    "word": "きっかけ",
+    "romaji": "kikkake",
+    "translation": ["opportunity", "trigger", "catalyst"]
+  },
+  {
+    "word": "で",
+    "romaji": "de",
+    "translation": ["by", "with", "through"]
+  },
+  {
+    "word": "ひろし",
+    "romaji": "hiroshi",
+    "translation": ["Hiroshi (name)"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "自分",
+    "romaji": "jibun",
+    "translation": ["self", "oneself", "one's own"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "人生",
+    "romaji": "jinsei",
+    "translation": ["life"]
+  },
+  {
+    "word": "を",
+    "romaji": "wo/o",
+    "translation": ["object marker particle"]
+  },
+  {
+    "word": "見つめ直す",
+    "romaji": "mitsumenaosu",
+    "translation": ["reconsider", "re-examine", "look at again"]
+  },
+  {
+    "word": "こと",
+    "romaji": "koto",
+    "translation": ["thing", "nominalizer"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["particle"]
+  },
+  {
+    "word": "しました",
+    "romaji": "shimashita",
+    "translation": ["did", "decided (past tense)"]
+  }
+]

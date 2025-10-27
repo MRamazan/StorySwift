@@ -1,0 +1,492 @@
+[
+  {
+    "word": "ゆき",
+    "romaji": "yuki",
+    "translation": ["Yuki (name)", "snow"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "十",
+    "romaji": "juu",
+    "translation": ["ten"]
+  },
+  {
+    "word": "歳",
+    "romaji": "sai",
+    "translation": ["years old", "age counter"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "女の子",
+    "romaji": "onnanoko",
+    "translation": ["girl", "young girl"]
+  },
+  {
+    "word": "です",
+    "romaji": "desu",
+    "translation": ["is", "to be (polite)"]
+  },
+  {
+    "word": "ゆき",
+    "romaji": "yuki",
+    "translation": ["Yuki (name)", "snow"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "白い",
+    "romaji": "shiroi",
+    "translation": ["white"]
+  },
+  {
+    "word": "猫",
+    "romaji": "neko",
+    "translation": ["cat"]
+  },
+  {
+    "word": "が",
+    "romaji": "ga",
+    "translation": ["subject marker particle"]
+  },
+  {
+    "word": "います",
+    "romaji": "imasu",
+    "translation": ["exists", "there is/are (for living things)", "to have"]
+  },
+  {
+    "word": "猫",
+    "romaji": "neko",
+    "translation": ["cat"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "名前",
+    "romaji": "namae",
+    "translation": ["name"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "もも",
+    "romaji": "momo",
+    "translation": ["Momo (name)", "peach"]
+  },
+  {
+    "word": "です",
+    "romaji": "desu",
+    "translation": ["is", "to be (polite)"]
+  },
+  {
+    "word": "今日",
+    "romaji": "kyou",
+    "translation": ["today"]
+  },
+  {
+    "word": "ゆき",
+    "romaji": "yuki",
+    "translation": ["Yuki (name)", "snow"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "朝",
+    "romaji": "asa",
+    "translation": ["morning"]
+  },
+  {
+    "word": "起きました",
+    "romaji": "okimashita",
+    "translation": ["woke up", "got up (past tense)"]
+  },
+  {
+    "word": "でも",
+    "romaji": "demo",
+    "translation": ["but", "however"]
+  },
+  {
+    "word": "もも",
+    "romaji": "momo",
+    "translation": ["Momo (name)", "peach"]
+  },
+  {
+    "word": "が",
+    "romaji": "ga",
+    "translation": ["subject marker particle"]
+  },
+  {
+    "word": "いません",
+    "romaji": "imasen",
+    "translation": ["is not there", "does not exist (for living things)", "is not present"]
+  },
+  {
+    "word": "ゆき",
+    "romaji": "yuki",
+    "translation": ["Yuki (name)", "snow"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "もも",
+    "romaji": "momo",
+    "translation": ["Momo (name)", "peach"]
+  },
+  {
+    "word": "を",
+    "romaji": "wo/o",
+    "translation": ["object marker particle"]
+  },
+  {
+    "word": "探します",
+    "romaji": "sagashimasu",
+    "translation": ["searches for", "looks for"]
+  },
+  {
+    "word": "もも",
+    "romaji": "momo",
+    "translation": ["Momo (name)", "peach"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "どこ",
+    "romaji": "doko",
+    "translation": ["where"]
+  },
+  {
+    "word": "です",
+    "romaji": "desu",
+    "translation": ["is", "to be (polite)"]
+  },
+  {
+    "word": "か",
+    "romaji": "ka",
+    "translation": ["question marker particle"]
+  },
+  {
+    "word": "ゆき",
+    "romaji": "yuki",
+    "translation": ["Yuki (name)", "snow"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "自分",
+    "romaji": "jibun",
+    "translation": ["self", "oneself", "one's own"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "部屋",
+    "romaji": "heya",
+    "translation": ["room"]
+  },
+  {
+    "word": "を",
+    "romaji": "wo/o",
+    "translation": ["object marker particle"]
+  },
+  {
+    "word": "見ます",
+    "romaji": "mimasu",
+    "translation": ["looks at", "sees", "watches", "checks"]
+  },
+  {
+    "word": "もも",
+    "romaji": "momo",
+    "translation": ["Momo (name)", "peach"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "いません",
+    "romaji": "imasen",
+    "translation": ["is not there", "does not exist (for living things)", "is not present"]
+  },
+  {
+    "word": "ゆき",
+    "romaji": "yuki",
+    "translation": ["Yuki (name)", "snow"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "台所",
+    "romaji": "daidokoro",
+    "translation": ["kitchen"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["to", "direction particle", "at", "in"]
+  },
+  {
+    "word": "行きます",
+    "romaji": "ikimasu",
+    "translation": ["goes", "go to"]
+  },
+  {
+    "word": "もも",
+    "romaji": "momo",
+    "translation": ["Momo (name)", "peach"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "いません",
+    "romaji": "imasen",
+    "translation": ["is not there", "does not exist (for living things)", "is not present"]
+  },
+  {
+    "word": "ゆき",
+    "romaji": "yuki",
+    "translation": ["Yuki (name)", "snow"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "庭",
+    "romaji": "niwa",
+    "translation": ["garden", "yard"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["to", "direction particle", "at", "in"]
+  },
+  {
+    "word": "行きます",
+    "romaji": "ikimasu",
+    "translation": ["goes", "go to"]
+  },
+  {
+    "word": "もも",
+    "romaji": "momo",
+    "translation": ["Momo (name)", "peach"]
+  },
+  {
+    "word": "ゆき",
+    "romaji": "yuki",
+    "translation": ["Yuki (name)", "snow"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "木",
+    "romaji": "ki",
+    "translation": ["tree", "wood"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "下",
+    "romaji": "shita",
+    "translation": ["under", "below", "beneath"]
+  },
+  {
+    "word": "を",
+    "romaji": "wo/o",
+    "translation": ["object marker particle"]
+  },
+  {
+    "word": "見ます",
+    "romaji": "mimasu",
+    "translation": ["looks at", "sees", "watches", "checks"]
+  },
+  {
+    "word": "もも",
+    "romaji": "momo",
+    "translation": ["Momo (name)", "peach"]
+  },
+  {
+    "word": "が",
+    "romaji": "ga",
+    "translation": ["subject marker particle"]
+  },
+  {
+    "word": "います",
+    "romaji": "imasu",
+    "translation": ["exists", "there is/are (for living things)", "is there"]
+  },
+  {
+    "word": "もも",
+    "romaji": "momo",
+    "translation": ["Momo (name)", "peach"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "木",
+    "romaji": "ki",
+    "translation": ["tree", "wood"]
+  },
+  {
+    "word": "の",
+    "romaji": "no",
+    "translation": ["possessive particle", "of"]
+  },
+  {
+    "word": "下",
+    "romaji": "shita",
+    "translation": ["under", "below", "beneath"]
+  },
+  {
+    "word": "で",
+    "romaji": "de",
+    "translation": ["at", "in", "location particle for action"]
+  },
+  {
+    "word": "寝ています",
+    "romaji": "nete imasu",
+    "translation": ["is sleeping", "is lying down"]
+  },
+  {
+    "word": "もも",
+    "romaji": "momo",
+    "translation": ["Momo (name)", "peach"]
+  },
+  {
+    "word": "ここ",
+    "romaji": "koko",
+    "translation": ["here", "this place"]
+  },
+  {
+    "word": "に",
+    "romaji": "ni",
+    "translation": ["at", "in", "location particle"]
+  },
+  {
+    "word": "いました",
+    "romaji": "imashita",
+    "translation": ["was", "existed (past tense for living things)", "was present"]
+  },
+  {
+    "word": "ね",
+    "romaji": "ne",
+    "translation": ["sentence-ending particle", "right?", "isn't it?"]
+  },
+  {
+    "word": "ゆき",
+    "romaji": "yuki",
+    "translation": ["Yuki (name)", "snow"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "とても",
+    "romaji": "totemo",
+    "translation": ["very", "very much"]
+  },
+  {
+    "word": "嬉しい",
+    "romaji": "ureshii",
+    "translation": ["happy", "glad", "joyful"]
+  },
+  {
+    "word": "です",
+    "romaji": "desu",
+    "translation": ["is", "to be (polite)"]
+  },
+  {
+    "word": "ゆき",
+    "romaji": "yuki",
+    "translation": ["Yuki (name)", "snow"]
+  },
+  {
+    "word": "は",
+    "romaji": "wa",
+    "translation": ["topic marker particle"]
+  },
+  {
+    "word": "もも",
+    "romaji": "momo",
+    "translation": ["Momo (name)", "peach"]
+  },
+  {
+    "word": "を",
+    "romaji": "wo/o",
+    "translation": ["object marker particle"]
+  },
+  {
+    "word": "抱きます",
+    "romaji": "dakimasu",
+    "translation": ["hugs", "holds", "embraces"]
+  },
+  {
+    "word": "もも",
+    "romaji": "momo",
+    "translation": ["Momo (name)", "peach"]
+  },
+  {
+    "word": "も",
+    "romaji": "mo",
+    "translation": ["also", "too", "as well"]
+  },
+  {
+    "word": "嬉しい",
+    "romaji": "ureshii",
+    "translation": ["happy", "glad", "joyful"]
+  },
+  {
+    "word": "です",
+    "romaji": "desu",
+    "translation": ["is", "to be (polite)"]
+  }
+]
